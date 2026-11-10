@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,State,City_Tier,Category,Payment_Mode,Gender,Quantity,Unit_Price,Discount_Pct,Sales,Rating
+DW00164,2026-09-01,Maharashtra,Tier 1,Home Decor,Credit Card,Male,4,847,10,3049,4.3
+DW00602,2026-09-01,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Male,1,967,20,774,3.5
+DW00625,2026-09-01,Delhi,Tier 1,Electronics,UPI,Male,1,7449,20,5959,3.5
+DW00641,2026-09-01,Telangana,Tier 3,Electronics,Cash on Delivery,Female,2,7132,25,10698,4.7
+DW00688,2026-09-01,Tamil Nadu,Tier 3,Sweets & Dry Fruits,Credit Card,Male,3,638,25,1436,4.1
+DW00706,2026-09-01,Uttar Pradesh,Tier 1,Fashion,Credit Card,Female,2,2008,5,3815,4.2
+DW00772,2026-09-01,Gujarat,Tier 2,Jewellery,UPI,Male,2,18110,25,27165,3.9
+DW01109,2026-09-01,West Bengal,Tier 1,Electronics,UPI,Female,1,13369,15,11364,4.4
+DW01150,2026-09-01,Maharashtra,Tier 1,Electronics,UPI,Female,2,6721,20,10754,4.4
+DW01186,2026-09-01,Maharashtra,Tier 1,Fashion,Debit Card,Female,3,3231,10,8724,4.6
+DW00423,2026-09-02,Gujarat,Tier 2,Electronics,Credit Card,Male,1,8253,15,7015,3.2
+DW01485,2026-09-02,Telangana,Tier 2,Fashion,Wallet,Female,2,2226,15,3784,3.8
+DW00077,2026-09-03,Telangana,Tier 1,Fashion,Cash on Delivery,Female,1,1816,5,1725,3.7
+DW00163,2026-09-03,Maharashtra,Tier 1,Electronics,Cash on Delivery,Male,1,6975,25,5231,3.5
+DW00269,2026-09-03,Telangana,Tier 1,Home Decor,UPI,Female,4,774,15,2632,3.4
+DW00424,2026-09-03,Tamil Nadu,Tier 3,Electronics,Cash on Delivery,Female,1,13134,0,13134,4.5
+DW00733,2026-09-03,West Bengal,Tier 2,Gifts & Hampers,Credit Card,Male,1,1063,20,850,5.0
+DW00839,2026-09-03,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Male,2,2070,15,3519,4.6
+DW01056,2026-09-03,Rajasthan,Tier 3,Jewellery,Wallet,Female,2,19626,5,37289,3.4
+DW01428,2026-09-03,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,2,851,10,1532,3.4
+DW01450,2026-09-03,Tamil Nadu,Tier 2,Fashion,Cash on Delivery,Female,1,1797,0,1797,3.4
+DW01482,2026-09-03,Maharashtra,Tier 2,Electronics,Cash on Delivery,Female,1,5411,5,5140,4.1
+DW00238,2026-09-04,Tamil Nadu,Tier 1,Home Decor,Debit Card,Male,3,1520,20,3648,4.1
+DW00286,2026-09-04,Delhi,Tier 1,Fashion,UPI,Male,4,3210,0,12840,3.2
+DW00436,2026-09-04,Maharashtra,Tier 2,Gifts & Hampers,UPI,Male,1,929,20,743,4.5
+DW00673,2026-09-04,Tamil Nadu,Tier 2,Home Decor,UPI,Female,1,1391,15,1182,4.2
+DW00066,2026-09-05,Karnataka,Tier 1,Home Decor,UPI,Female,2,935,5,1776,3.6
+DW00190,2026-09-05,Gujarat,Tier 2,Electronics,Debit Card,Female,2,5980,10,10764,3.3
+DW00259,2026-09-05,Karnataka,Tier 1,Fashion,Cash on Delivery,Female,1,2093,25,1570,4.5
+DW00281,2026-09-05,Karnataka,Tier 2,Gifts & Hampers,Wallet,Female,4,1308,25,3924,4.9
+DW00499,2026-09-05,Karnataka,Tier 1,Home Decor,UPI,Male,1,736,0,736,3.4
+DW00568,2026-09-05,Madhya Pradesh,Tier 3,Fashion,UPI,Female,1,2244,20,1795,4.8
+DW00745,2026-09-05,Rajasthan,Tier 2,Electronics,UPI,Male,2,6803,0,13606,3.6
+DW00917,2026-09-05,Karnataka,Tier 2,Electronics,UPI,Female,3,13316,15,33956,3.7
+DW00997,2026-09-05,Maharashtra,Tier 1,Electronics,UPI,Female,1,7871,5,7477,4.4
+DW01213,2026-09-05,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Female,1,1227,10,1104,3.3
+DW01332,2026-09-05,Uttar Pradesh,Tier 3,Electronics,UPI,Male,2,9138,10,16448,3.7
+DW01491,2026-09-05,Uttar Pradesh,Tier 1,Home Decor,UPI,Female,4,1778,20,5690,4.5
+DW00042,2026-09-06,Uttar Pradesh,Tier 1,Electronics,Credit Card,Male,1,10808,25,8106,4.7
+DW00178,2026-09-06,Rajasthan,Tier 1,Home Decor,Credit Card,Female,1,1253,0,1253,4.9
+DW00393,2026-09-06,Tamil Nadu,Tier 3,Jewellery,Wallet,Female,2,19608,25,29412,3.7
+DW00874,2026-09-06,Karnataka,Tier 1,Jewellery,UPI,Male,1,16847,0,16847,3.4
+DW00904,2026-09-06,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,1,1728,5,1642,4.3
+DW00977,2026-09-06,Gujarat,Tier 1,Jewellery,UPI,Female,1,14879,0,14879,4.3
+DW00265,2026-09-07,Maharashtra,Tier 1,Fashion,Wallet,Male,4,1800,20,5760,3.3
+DW00435,2026-09-07,Tamil Nadu,Tier 2,Jewellery,Credit Card,Female,1,9592,15,8153,4.3
+DW00476,2026-09-07,Karnataka,Tier 3,Sweets & Dry Fruits,UPI,Male,2,889,0,1778,4.0
+DW00736,2026-09-07,Rajasthan,Tier 2,Sweets & Dry Fruits,UPI,Female,1,1029,20,823,4.7
+DW00858,2026-09-07,Karnataka,Tier 3,Jewellery,Credit Card,Male,2,10719,10,19294,4.2
+DW01165,2026-09-07,Delhi,Tier 2,Electronics,UPI,Male,1,11296,25,8472,4.1
+DW00261,2026-09-08,Delhi,Tier 1,Electronics,Cash on Delivery,Male,1,11833,15,10058,4.3
+DW00348,2026-09-08,Karnataka,Tier 1,Fashion,Debit Card,Female,1,2032,20,1626,3.4
+DW00507,2026-09-08,Maharashtra,Tier 1,Sweets & Dry Fruits,Debit Card,Male,2,450,0,900,4.4
+DW00842,2026-09-08,Gujarat,Tier 2,Jewellery,UPI,Female,2,12703,5,24136,3.8
+DW01072,2026-09-08,Delhi,Tier 2,Home Decor,Credit Card,Female,1,1194,0,1194,4.9
+DW01139,2026-09-08,Karnataka,Tier 1,Jewellery,Credit Card,Female,1,16777,5,15938,4.6
+DW00084,2026-09-09,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,430,15,366,4.4
+DW00141,2026-09-09,Rajasthan,Tier 2,Sweets & Dry Fruits,UPI,Male,4,444,15,1510,3.8
+DW00439,2026-09-09,Tamil Nadu,Tier 2,Jewellery,Credit Card,Female,1,14713,5,13977,4.6
+DW00538,2026-09-09,Telangana,Tier 2,Jewellery,Wallet,Male,2,8585,20,13736,4.8
+DW00727,2026-09-09,Telangana,Tier 1,Home Decor,Credit Card,Female,1,1315,20,1052,4.9
+DW00918,2026-09-09,Tamil Nadu,Tier 3,Fashion,Cash on Delivery,Female,1,3486,20,2789,3.6
+DW01094,2026-09-09,Maharashtra,Tier 1,Jewellery,Credit Card,Female,1,12742,0,12742,4.8
+DW01114,2026-09-09,Maharashtra,Tier 1,Fashion,UPI,Female,1,2127,20,1702,3.9
+DW01310,2026-09-09,Delhi,Tier 1,Home Decor,Wallet,Female,1,1663,10,1497,4.1
+DW01408,2026-09-09,Karnataka,Tier 3,Jewellery,Wallet,Male,1,15264,10,13738,3.4
+DW01462,2026-09-09,Uttar Pradesh,Tier 3,Fashion,Debit Card,Female,2,2593,10,4667,4.8
+DW00156,2026-09-10,Maharashtra,Tier 2,Electronics,UPI,Female,1,6842,20,5474,4.5
+DW00397,2026-09-10,Gujarat,Tier 3,Electronics,Debit Card,Male,4,7834,25,23502,4.2
+DW00470,2026-09-10,Madhya Pradesh,Tier 2,Electronics,UPI,Female,1,9839,10,8855,3.2
+DW00610,2026-09-10,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Credit Card,Female,2,760,10,1368,3.7
+DW00026,2026-09-11,Madhya Pradesh,Tier 2,Electronics,UPI,Male,1,12419,10,11177,3.3
+DW00043,2026-09-11,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Male,1,487,10,438,3.9
+DW00104,2026-09-11,Karnataka,Tier 1,Fashion,UPI,Male,1,1606,5,1526,3.7
+DW00282,2026-09-11,Tamil Nadu,Tier 1,Electronics,Credit Card,Male,1,12045,15,10238,3.3
+DW00328,2026-09-11,Tamil Nadu,Tier 3,Home Decor,UPI,Male,2,1695,20,2712,5.0
+DW00410,2026-09-11,Delhi,Tier 1,Sweets & Dry Fruits,UPI,Female,2,569,0,1138,4.7
+DW00670,2026-09-11,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,441,20,353,3.3
+DW01079,2026-09-11,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,1,944,5,897,3.8
+DW01098,2026-09-11,Karnataka,Tier 1,Electronics,UPI,Female,1,6853,5,6510,4.7
+DW01153,2026-09-11,Gujarat,Tier 1,Fashion,Debit Card,Male,1,1939,0,1939,4.1
+DW01272,2026-09-11,Tamil Nadu,Tier 1,Fashion,Credit Card,Male,2,3036,0,6072,4.3
+DW01347,2026-09-11,West Bengal,Tier 3,Gifts & Hampers,Cash on Delivery,Male,1,1181,25,886,3.8
+DW00407,2026-09-12,Maharashtra,Tier 1,Fashion,Debit Card,Male,1,2815,5,2674,5.0
+DW00464,2026-09-12,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,2,967,25,1450,3.8
+DW00502,2026-09-12,Delhi,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,931,0,931,3.5
+DW00751,2026-09-12,West Bengal,Tier 2,Home Decor,Cash on Delivery,Male,1,904,15,768,4.4
+DW00797,2026-09-12,Uttar Pradesh,Tier 2,Electronics,UPI,Male,1,8424,0,8424,4.1
+DW00943,2026-09-12,Tamil Nadu,Tier 3,Home Decor,UPI,Male,3,1246,5,3551,3.6
+DW01001,2026-09-12,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Female,1,767,5,729,4.5
+DW01131,2026-09-12,Maharashtra,Tier 1,Electronics,UPI,Female,3,10123,15,25814,4.6
+DW01228,2026-09-12,Uttar Pradesh,Tier 1,Jewellery,UPI,Male,1,11747,15,9985,4.1
+DW00395,2026-09-13,Maharashtra,Tier 1,Fashion,UPI,Male,2,2777,25,4166,3.7
+DW00816,2026-09-13,Telangana,Tier 1,Fashion,Credit Card,Male,1,2934,15,2494,3.4
+DW01058,2026-09-13,Tamil Nadu,Tier 2,Home Decor,UPI,Female,1,755,20,604,3.3
+DW00331,2026-09-14,Maharashtra,Tier 3,Electronics,Cash on Delivery,Female,2,12268,5,23309,4.7
+DW00382,2026-09-14,Delhi,Tier 1,Sweets & Dry Fruits,Debit Card,Male,1,477,0,477,4.0
+DW00457,2026-09-14,Delhi,Tier 1,Electronics,UPI,Female,1,9263,10,8337,4.4
+DW00605,2026-09-14,Maharashtra,Tier 2,Fashion,UPI,Female,1,2812,0,2812,4.6
+DW00651,2026-09-14,Gujarat,Tier 2,Fashion,Debit Card,Male,2,2496,25,3744,4.7
+DW00742,2026-09-14,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,1,493,15,419,3.9
+DW00794,2026-09-14,Telangana,Tier 2,Fashion,UPI,Female,4,2309,15,7851,4.9
+DW01179,2026-09-14,Delhi,Tier 1,Electronics,Wallet,Male,2,6975,10,12555,3.5
+DW01279,2026-09-14,Maharashtra,Tier 3,Home Decor,UPI,Female,1,1795,5,1705,3.9
+DW01283,2026-09-14,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Male,1,812,25,609,4.2
+DW00004,2026-09-15,Karnataka,Tier 1,Fashion,UPI,Female,2,3112,10,5602,3.9
+DW00038,2026-09-15,Uttar Pradesh,Tier 1,Gifts & Hampers,Credit Card,Female,2,2248,0,4496,4.2
+DW00184,2026-09-15,Karnataka,Tier 1,Jewellery,UPI,Male,3,11841,15,30195,4.8
+DW00316,2026-09-15,Telangana,Tier 2,Electronics,UPI,Female,1,11992,20,9594,3.8
+DW00945,2026-09-15,Maharashtra,Tier 2,Electronics,UPI,Female,3,6631,5,18898,4.7
+DW00965,2026-09-15,West Bengal,Tier 2,Sweets & Dry Fruits,Debit Card,Female,1,771,5,732,4.8
+DW01123,2026-09-15,Maharashtra,Tier 3,Home Decor,UPI,Female,1,1150,25,862,4.3
+DW01246,2026-09-15,Delhi,Tier 1,Gifts & Hampers,Debit Card,Male,2,984,15,1673,4.2
+DW01315,2026-09-15,Tamil Nadu,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,654,25,490,4.2
+DW01455,2026-09-15,Telangana,Tier 2,Fashion,Credit Card,Female,3,3448,25,7758,4.1
+DW01465,2026-09-15,Telangana,Tier 2,Jewellery,Cash on Delivery,Female,4,12254,0,49016,4.2
+DW00118,2026-09-16,Maharashtra,Tier 3,Electronics,UPI,Female,1,10434,5,9912,3.3
+DW00150,2026-09-16,Karnataka,Tier 2,Gifts & Hampers,UPI,Female,4,1998,20,6394,4.2
+DW00151,2026-09-16,Delhi,Tier 3,Fashion,UPI,Male,2,3033,5,5763,4.7
+DW00343,2026-09-16,Telangana,Tier 3,Electronics,UPI,Female,2,10631,0,21262,3.6
+DW00394,2026-09-16,Tamil Nadu,Tier 1,Jewellery,Cash on Delivery,Male,2,20600,10,37080,4.1
+DW00418,2026-09-16,Madhya Pradesh,Tier 2,Electronics,Debit Card,Female,1,6800,15,5780,3.6
+DW00550,2026-09-16,Madhya Pradesh,Tier 2,Jewellery,UPI,Male,1,12611,15,10719,3.6
+DW00561,2026-09-16,West Bengal,Tier 1,Electronics,UPI,Male,1,6329,25,4747,4.0
+DW00725,2026-09-16,Delhi,Tier 2,Home Decor,UPI,Female,2,915,15,1556,3.6
+DW00859,2026-09-16,Maharashtra,Tier 2,Jewellery,UPI,Male,4,10406,25,31218,3.3
+DW00926,2026-09-16,Gujarat,Tier 2,Home Decor,UPI,Female,1,1623,5,1542,3.3
+DW00936,2026-09-16,Delhi,Tier 2,Fashion,Wallet,Female,3,2205,20,5292,4.7
+DW00094,2026-09-17,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,1,808,10,727,4.4
+DW00119,2026-09-17,Karnataka,Tier 1,Electronics,Credit Card,Male,1,13454,10,12109,3.7
+DW00309,2026-09-17,Delhi,Tier 2,Home Decor,Debit Card,Female,2,1459,20,2334,4.5
+DW00597,2026-09-17,Uttar Pradesh,Tier 1,Jewellery,UPI,Male,1,18750,25,14062,4.7
+DW00687,2026-09-17,Tamil Nadu,Tier 3,Gifts & Hampers,UPI,Female,2,1594,0,3188,4.1
+DW00748,2026-09-17,Uttar Pradesh,Tier 3,Electronics,UPI,Male,3,8780,0,26340,3.9
+DW00875,2026-09-17,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Male,1,1052,5,999,4.4
+DW00887,2026-09-17,Delhi,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,498,25,374,4.5
+DW00938,2026-09-17,Delhi,Tier 1,Sweets & Dry Fruits,Credit Card,Male,1,1004,5,954,5.0
+DW00946,2026-09-17,Tamil Nadu,Tier 2,Electronics,UPI,Female,1,11271,25,8453,4.3
+DW01032,2026-09-17,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Female,1,1324,10,1192,3.8
+DW01076,2026-09-17,Uttar Pradesh,Tier 2,Electronics,UPI,Male,1,11264,5,10701,4.9
+DW01099,2026-09-17,Uttar Pradesh,Tier 3,Home Decor,UPI,Male,1,1484,10,1336,3.6
+DW00279,2026-09-18,Uttar Pradesh,Tier 1,Jewellery,UPI,Female,1,9670,25,7252,4.2
+DW00300,2026-09-18,Rajasthan,Tier 1,Sweets & Dry Fruits,UPI,Male,1,935,0,935,3.9
+DW00411,2026-09-18,Karnataka,Tier 2,Fashion,UPI,Male,1,1607,15,1366,3.6
+DW00547,2026-09-18,Rajasthan,Tier 1,Sweets & Dry Fruits,UPI,Female,1,543,15,462,5.0
+DW00582,2026-09-18,Tamil Nadu,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,943,15,802,4.3
+DW00614,2026-09-18,Rajasthan,Tier 3,Fashion,Cash on Delivery,Female,2,3168,25,4752,3.7
+DW00649,2026-09-18,Delhi,Tier 2,Fashion,Credit Card,Male,1,2484,25,1863,4.6
+DW00861,2026-09-18,Maharashtra,Tier 1,Fashion,Credit Card,Female,1,2963,15,2519,5.0
+DW00891,2026-09-18,Tamil Nadu,Tier 3,Electronics,Wallet,Female,1,11226,20,8981,4.2
+DW01086,2026-09-18,Maharashtra,Tier 1,Electronics,Credit Card,Male,2,7127,15,12116,3.6
+DW01425,2026-09-18,Tamil Nadu,Tier 3,Sweets & Dry Fruits,Debit Card,Female,1,984,20,787,4.6
+DW00204,2026-09-19,Maharashtra,Tier 2,Fashion,UPI,Female,1,2696,15,2292,4.5
+DW00263,2026-09-19,Delhi,Tier 1,Fashion,UPI,Female,1,2513,5,2387,3.3
+DW00468,2026-09-19,Madhya Pradesh,Tier 2,Electronics,Debit Card,Male,2,9995,25,14992,3.6
+DW00753,2026-09-19,Gujarat,Tier 1,Electronics,Wallet,Female,1,7377,15,6270,3.4
+DW01017,2026-09-19,Maharashtra,Tier 1,Jewellery,UPI,Female,1,15957,5,15159,4.3
+DW01033,2026-09-19,Uttar Pradesh,Tier 2,Jewellery,Credit Card,Female,2,14435,5,27426,4.4
+DW01363,2026-09-19,West Bengal,Tier 3,Sweets & Dry Fruits,Credit Card,Female,3,539,0,1617,4.4
+DW01389,2026-09-19,Maharashtra,Tier 1,Fashion,Debit Card,Male,1,2541,25,1906,4.2
+DW00001,2026-09-20,Karnataka,Tier 3,Fashion,Credit Card,Female,1,2002,20,1602,4.6
+DW00049,2026-09-20,Delhi,Tier 1,Fashion,UPI,Male,1,3112,25,2334,4.4
+DW00148,2026-09-20,Karnataka,Tier 2,Electronics,Cash on Delivery,Female,3,10214,0,30642,4.9
+DW00317,2026-09-20,Gujarat,Tier 1,Electronics,UPI,Male,2,6854,10,12337,3.8
+DW00362,2026-09-20,Maharashtra,Tier 2,Electronics,Credit Card,Female,1,10839,0,10839,3.6
+DW00440,2026-09-20,Madhya Pradesh,Tier 1,Home Decor,Wallet,Male,2,1003,20,1605,4.1
+DW00907,2026-09-20,Gujarat,Tier 2,Electronics,UPI,Male,4,11124,15,37822,3.3
+DW00961,2026-09-20,Delhi,Tier 1,Electronics,Debit Card,Male,1,9575,0,9575,3.5
+DW01040,2026-09-20,Karnataka,Tier 2,Fashion,UPI,Female,2,3166,5,6015,4.4
+DW01145,2026-09-20,Delhi,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,4,563,0,2252,4.9
+DW01167,2026-09-20,Maharashtra,Tier 1,Home Decor,Credit Card,Male,1,1065,15,905,4.0
+DW01227,2026-09-20,Karnataka,Tier 1,Gifts & Hampers,UPI,Male,1,1737,5,1650,4.8
+DW01242,2026-09-20,Maharashtra,Tier 1,Electronics,Debit Card,Female,1,11378,25,8534,4.0
+DW01378,2026-09-20,Telangana,Tier 3,Sweets & Dry Fruits,Credit Card,Female,1,835,10,752,4.0
+DW01434,2026-09-20,Delhi,Tier 1,Fashion,Debit Card,Male,1,3312,25,2484,4.0
+DW00031,2026-09-21,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Female,1,784,10,706,3.6
+DW00096,2026-09-21,Telangana,Tier 2,Sweets & Dry Fruits,Credit Card,Female,2,885,20,1416,4.7
+DW00124,2026-09-21,Telangana,Tier 1,Home Decor,Cash on Delivery,Male,1,1043,25,782,4.9
+DW00228,2026-09-21,Rajasthan,Tier 1,Fashion,Debit Card,Female,1,2759,5,2621,4.1
+DW00260,2026-09-21,Maharashtra,Tier 3,Sweets & Dry Fruits,UPI,Female,2,1034,10,1861,4.0
+DW00294,2026-09-21,West Bengal,Tier 2,Home Decor,UPI,Male,1,1457,20,1166,3.3
+DW00414,2026-09-21,Tamil Nadu,Tier 2,Fashion,UPI,Male,1,2604,5,2474,4.3
+DW00674,2026-09-21,Maharashtra,Tier 1,Electronics,UPI,Male,1,6748,0,6748,3.2
+DW01259,2026-09-21,Rajasthan,Tier 3,Sweets & Dry Fruits,Cash on Delivery,Female,1,1033,20,826,4.0
+DW01416,2026-09-21,Tamil Nadu,Tier 1,Fashion,Credit Card,Male,1,1522,25,1142,4.1
+DW00074,2026-09-22,Maharashtra,Tier 2,Electronics,Wallet,Male,1,13272,25,9954,4.5
+DW00272,2026-09-22,Tamil Nadu,Tier 2,Electronics,UPI,Male,1,7596,25,5697,3.3
+DW00480,2026-09-22,Gujarat,Tier 3,Electronics,Wallet,Female,2,10551,20,16882,4.5
+DW00636,2026-09-22,Maharashtra,Tier 3,Fashion,Credit Card,Female,2,2075,10,3735,4.9
+DW00812,2026-09-22,Karnataka,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,960,5,912,4.3
+DW01141,2026-09-22,Rajasthan,Tier 2,Sweets & Dry Fruits,Debit Card,Male,2,770,0,1540,4.0
+DW01226,2026-09-22,Gujarat,Tier 3,Electronics,UPI,Female,1,11613,0,11613,4.8
+DW01353,2026-09-22,Madhya Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Female,1,755,15,642,3.6
+DW00212,2026-09-23,Maharashtra,Tier 1,Gifts & Hampers,Debit Card,Female,1,1617,15,1374,4.1
+DW00978,2026-09-23,Delhi,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,570,15,484,4.7
+DW01002,2026-09-23,Karnataka,Tier 3,Electronics,UPI,Female,1,12348,10,11113,3.4
+DW01147,2026-09-23,Gujarat,Tier 1,Sweets & Dry Fruits,UPI,Male,1,1028,10,925,4.2
+DW00016,2026-09-24,Rajasthan,Tier 3,Fashion,Credit Card,Male,1,1665,10,1498,3.2
+DW00179,2026-09-24,Tamil Nadu,Tier 1,Electronics,UPI,Male,1,6562,25,4922,3.7
+DW00233,2026-09-24,Delhi,Tier 2,Home Decor,UPI,Male,2,1581,15,2688,4.0
+DW00237,2026-09-24,Maharashtra,Tier 1,Jewellery,Credit Card,Male,1,17734,10,15961,4.9
+DW00604,2026-09-24,Maharashtra,Tier 1,Jewellery,Debit Card,Female,1,19632,20,15706,4.8
+DW00713,2026-09-24,Uttar Pradesh,Tier 2,Fashion,UPI,Female,1,3068,20,2454,4.9
+DW00771,2026-09-24,Tamil Nadu,Tier 2,Gifts & Hampers,UPI,Female,1,1308,5,1243,3.6
+DW00866,2026-09-24,Gujarat,Tier 1,Home Decor,UPI,Male,4,1425,15,4845,4.8
+DW00889,2026-09-24,Delhi,Tier 3,Electronics,UPI,Male,1,5885,20,4708,4.1
+DW00927,2026-09-24,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Female,1,472,10,425,3.2
+DW01048,2026-09-24,Karnataka,Tier 2,Fashion,UPI,Female,1,3171,0,3171,4.4
+DW01180,2026-09-24,Delhi,Tier 2,Fashion,Credit Card,Female,1,1525,5,1449,4.7
+DW01374,2026-09-24,Maharashtra,Tier 1,Sweets & Dry Fruits,Credit Card,Male,1,586,5,557,4.8
+DW00276,2026-09-25,Maharashtra,Tier 3,Gifts & Hampers,UPI,Female,1,1866,10,1679,3.4
+DW00357,2026-09-25,Uttar Pradesh,Tier 3,Electronics,UPI,Male,3,9197,20,22073,4.8
+DW00925,2026-09-25,Madhya Pradesh,Tier 3,Fashion,Debit Card,Male,1,1841,5,1749,3.6
+DW01031,2026-09-25,Delhi,Tier 1,Electronics,Cash on Delivery,Female,1,6786,0,6786,3.3
+DW01237,2026-09-25,Maharashtra,Tier 1,Fashion,UPI,Male,1,3658,20,2926,3.4
+DW01251,2026-09-25,Tamil Nadu,Tier 1,Electronics,UPI,Male,1,7673,15,6522,4.1
+DW01382,2026-09-25,Telangana,Tier 1,Fashion,UPI,Female,1,1538,10,1384,4.9
+DW01396,2026-09-25,Karnataka,Tier 1,Electronics,Cash on Delivery,Female,1,7112,0,7112,4.0
+DW01430,2026-09-25,Karnataka,Tier 1,Fashion,Cash on Delivery,Female,4,3030,0,12120,4.1
+DW00067,2026-09-26,Telangana,Tier 2,Fashion,Credit Card,Female,3,3086,10,8332,4.9
+DW00304,2026-09-26,Karnataka,Tier 3,Electronics,UPI,Female,2,12346,0,24692,4.2
+DW00659,2026-09-26,Maharashtra,Tier 1,Jewellery,Credit Card,Female,2,15933,25,23900,3.6
+DW00832,2026-09-26,Uttar Pradesh,Tier 2,Jewellery,UPI,Female,4,18117,25,54351,4.2
+DW01019,2026-09-26,Telangana,Tier 3,Fashion,Debit Card,Male,2,3512,5,6673,4.2
+DW01095,2026-09-26,Karnataka,Tier 2,Fashion,UPI,Male,3,2878,10,7771,4.7
+DW01110,2026-09-26,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Credit Card,Male,1,848,0,848,4.4
+DW01151,2026-09-26,West Bengal,Tier 3,Fashion,Credit Card,Female,1,2597,25,1948,4.2
+DW01171,2026-09-26,Gujarat,Tier 2,Electronics,Wallet,Male,1,6556,0,6556,4.2
+DW01189,2026-09-26,Delhi,Tier 2,Fashion,Credit Card,Male,4,3103,0,12412,4.2
+DW01458,2026-09-26,Tamil Nadu,Tier 3,Sweets & Dry Fruits,UPI,Male,2,611,20,978,4.9
+DW01468,2026-09-26,Gujarat,Tier 2,Electronics,UPI,Male,2,8139,25,12208,4.2
+DW00193,2026-09-27,Delhi,Tier 1,Home Decor,Wallet,Male,2,1590,5,3021,4.2
+DW00273,2026-09-27,Madhya Pradesh,Tier 3,Gifts & Hampers,UPI,Female,2,1230,5,2337,5.0
+DW00306,2026-09-27,Rajasthan,Tier 2,Gifts & Hampers,Credit Card,Male,1,1617,5,1536,4.9
+DW00406,2026-09-27,Gujarat,Tier 3,Fashion,Credit Card,Female,1,2671,20,2137,4.7
+DW00432,2026-09-27,Uttar Pradesh,Tier 3,Electronics,Credit Card,Male,1,10927,0,10927,3.8
+DW00813,2026-09-27,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,1,748,15,636,4.3
+DW00989,2026-09-27,Maharashtra,Tier 1,Electronics,UPI,Male,3,9031,20,21674,4.7
+DW01230,2026-09-27,Delhi,Tier 1,Home Decor,UPI,Female,1,743,0,743,3.9
+DW00085,2026-09-28,Delhi,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,596,25,447,3.4
+DW00122,2026-09-28,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,13441,20,10753,4.7
+DW00139,2026-09-28,Telangana,Tier 2,Sweets & Dry Fruits,UPI,Male,1,425,20,340,4.8
+DW00145,2026-09-28,Tamil Nadu,Tier 1,Home Decor,Credit Card,Male,4,1172,0,4688,4.6
+DW00307,2026-09-28,West Bengal,Tier 1,Sweets & Dry Fruits,UPI,Male,1,635,25,476,4.5
+DW00871,2026-09-28,Maharashtra,Tier 3,Fashion,Cash on Delivery,Female,2,3714,10,6685,4.8
+DW00922,2026-09-28,Telangana,Tier 2,Sweets & Dry Fruits,UPI,Male,2,817,0,1634,3.6
+DW01212,2026-09-28,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,2,550,20,880,3.6
+DW01467,2026-09-28,Maharashtra,Tier 2,Home Decor,Debit Card,Female,2,1015,5,1928,5.0
+DW00244,2026-09-29,Tamil Nadu,Tier 3,Fashion,UPI,Male,2,2450,25,3675,3.2
+DW00275,2026-09-29,Delhi,Tier 1,Electronics,UPI,Female,1,6378,5,6059,4.5
+DW00329,2026-09-29,Rajasthan,Tier 2,Gifts & Hampers,Wallet,Male,4,1265,20,4048,3.6
+DW00505,2026-09-29,Madhya Pradesh,Tier 2,Home Decor,Debit Card,Male,1,1200,5,1140,3.2
+DW00722,2026-09-29,Tamil Nadu,Tier 2,Home Decor,Credit Card,Male,2,1453,10,2615,3.7
+DW00773,2026-09-29,Karnataka,Tier 2,Sweets & Dry Fruits,Credit Card,Female,3,907,0,2721,4.4
+DW00884,2026-09-29,Uttar Pradesh,Tier 1,Fashion,UPI,Female,2,1952,10,3514,4.2
+DW01034,2026-09-29,Delhi,Tier 2,Electronics,Cash on Delivery,Male,2,9917,5,18842,4.0
+DW01204,2026-09-29,Karnataka,Tier 1,Electronics,Debit Card,Female,2,8998,25,13497,3.7
+DW01270,2026-09-29,West Bengal,Tier 2,Electronics,UPI,Male,4,8612,25,25836,3.6
+DW01365,2026-09-29,Telangana,Tier 2,Electronics,Credit Card,Male,4,12607,25,37821,4.7
+DW00100,2026-09-30,Maharashtra,Tier 1,Electronics,UPI,Male,1,6397,20,5118,3.9
+DW00102,2026-09-30,Rajasthan,Tier 2,Home Decor,UPI,Female,1,814,5,773,4.9
+DW00157,2026-09-30,Tamil Nadu,Tier 3,Sweets & Dry Fruits,UPI,Male,1,715,25,536,3.4
+DW00209,2026-09-30,West Bengal,Tier 3,Home Decor,UPI,Male,3,1518,25,3416,4.2
+DW00352,2026-09-30,Delhi,Tier 2,Gifts & Hampers,UPI,Female,2,2104,20,3366,3.3
+DW00450,2026-09-30,Gujarat,Tier 2,Sweets & Dry Fruits,Wallet,Male,4,519,20,1661,4.0
+DW00511,2026-09-30,Uttar Pradesh,Tier 3,Electronics,Debit Card,Male,1,12157,10,10941,3.4
+DW00523,2026-09-30,Madhya Pradesh,Tier 2,Gifts & Hampers,UPI,Male,1,1063,15,904,4.7
+DW00703,2026-09-30,Rajasthan,Tier 1,Gifts & Hampers,Credit Card,Male,2,1865,5,3544,4.9
+DW00739,2026-09-30,Rajasthan,Tier 2,Fashion,Cash on Delivery,Female,4,2721,25,8163,4.9
+DW00820,2026-09-30,Karnataka,Tier 1,Electronics,Credit Card,Female,1,5638,10,5074,3.6
+DW00981,2026-09-30,Rajasthan,Tier 2,Fashion,UPI,Female,1,3001,20,2401,4.2
+DW01088,2026-09-30,Delhi,Tier 2,Fashion,Debit Card,Female,1,2823,0,2823,3.9
+DW01238,2026-09-30,West Bengal,Tier 3,Fashion,UPI,Female,1,3019,5,2868,4.2
+DW01303,2026-09-30,West Bengal,Tier 3,Fashion,Debit Card,Female,1,2575,20,2060,3.9
+DW01312,2026-09-30,Rajasthan,Tier 2,Electronics,UPI,Female,2,9699,25,14548,3.9
+DW01336,2026-09-30,Maharashtra,Tier 2,Fashion,Cash on Delivery,Male,1,2996,25,2247,4.9
+DW01360,2026-09-30,Gujarat,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,972,15,826,4.0
+DW00010,2026-10-01,Gujarat,Tier 3,Fashion,Cash on Delivery,Female,1,2477,25,1858,3.8
+DW00069,2026-10-01,Uttar Pradesh,Tier 3,Home Decor,Credit Card,Female,1,1311,5,1245,3.7
+DW00132,2026-10-01,Uttar Pradesh,Tier 3,Home Decor,Debit Card,Female,2,1518,20,2429,3.7
+DW00417,2026-10-01,Tamil Nadu,Tier 3,Sweets & Dry Fruits,UPI,Male,2,502,10,904,4.8
+DW00556,2026-10-01,Telangana,Tier 2,Jewellery,Credit Card,Female,1,15682,0,15682,4.9
+DW00599,2026-10-01,Gujarat,Tier 2,Fashion,Credit Card,Female,1,3101,0,3101,4.1
+DW00834,2026-10-01,Maharashtra,Tier 2,Jewellery,UPI,Male,1,19034,10,17131,4.6
+DW00838,2026-10-01,Telangana,Tier 3,Fashion,Debit Card,Female,1,3460,0,3460,3.9
+DW00853,2026-10-01,Karnataka,Tier 3,Jewellery,Wallet,Female,1,11859,0,11859,3.4
+DW00987,2026-10-01,Uttar Pradesh,Tier 3,Home Decor,UPI,Male,1,1217,25,913,3.7
+DW01000,2026-10-01,Maharashtra,Tier 1,Home Decor,UPI,Male,1,1618,15,1375,3.8
+DW01045,2026-10-01,Uttar Pradesh,Tier 3,Home Decor,Credit Card,Female,2,1164,10,2095,3.8
+DW01211,2026-10-01,Rajasthan,Tier 3,Fashion,Credit Card,Male,1,1664,20,1331,4.8
+DW01222,2026-10-01,Tamil Nadu,Tier 3,Jewellery,UPI,Female,1,16374,20,13099,3.9
+DW01253,2026-10-01,Tamil Nadu,Tier 3,Home Decor,UPI,Female,2,1418,5,2694,4.4
+DW01466,2026-10-01,West Bengal,Tier 2,Electronics,UPI,Male,1,12784,15,10866,4.2
+DW00018,2026-10-02,Tamil Nadu,Tier 1,Fashion,UPI,Male,2,2732,0,5464,3.3
+DW00054,2026-10-02,Gujarat,Tier 1,Gifts & Hampers,Credit Card,Male,1,1604,20,1283,3.3
+DW00130,2026-10-02,Telangana,Tier 2,Fashion,UPI,Male,1,3165,20,2532,3.9
+DW00144,2026-10-02,Telangana,Tier 2,Fashion,UPI,Female,2,3669,15,6237,4.8
+DW00446,2026-10-02,Gujarat,Tier 2,Home Decor,UPI,Female,2,1443,25,2164,4.4
+DW00608,2026-10-02,Tamil Nadu,Tier 1,Electronics,UPI,Male,2,11187,10,20137,4.2
+DW00710,2026-10-02,Madhya Pradesh,Tier 2,Gifts & Hampers,UPI,Male,1,1893,5,1798,4.4
+DW00789,2026-10-02,Telangana,Tier 1,Jewellery,Credit Card,Female,3,12100,10,32670,3.8
+DW00815,2026-10-02,Maharashtra,Tier 1,Fashion,Cash on Delivery,Female,2,1968,20,3149,3.3
+DW00865,2026-10-02,Rajasthan,Tier 2,Fashion,Credit Card,Female,1,3509,20,2807,3.9
+DW00929,2026-10-02,Tamil Nadu,Tier 1,Home Decor,UPI,Male,1,1631,5,1549,4.5
+DW01092,2026-10-02,Madhya Pradesh,Tier 2,Electronics,Credit Card,Female,1,7299,5,6934,4.7
+DW01102,2026-10-02,Karnataka,Tier 1,Electronics,Credit Card,Male,2,11208,10,20174,4.8
+DW01384,2026-10-02,Delhi,Tier 1,Home Decor,UPI,Male,4,1281,0,5124,4.2
+DW00120,2026-10-03,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,9802,25,7352,4.6
+DW00159,2026-10-03,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Female,2,1351,10,2432,3.7
+DW00172,2026-10-03,Delhi,Tier 2,Fashion,Cash on Delivery,Female,2,1875,20,3000,3.4
+DW00183,2026-10-03,Maharashtra,Tier 2,Gifts & Hampers,Wallet,Male,1,2176,5,2067,4.0
+DW00214,2026-10-03,Gujarat,Tier 1,Sweets & Dry Fruits,UPI,Male,1,724,10,652,5.0
+DW00288,2026-10-03,Tamil Nadu,Tier 1,Jewellery,UPI,Female,1,10075,15,8564,3.5
+DW00295,2026-10-03,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Female,2,1029,10,1852,4.0
+DW00452,2026-10-03,Uttar Pradesh,Tier 1,Electronics,Wallet,Female,3,12068,10,32584,3.7
+DW00478,2026-10-03,Gujarat,Tier 2,Electronics,Cash on Delivery,Male,2,7094,5,13479,4.8
+DW00693,2026-10-03,West Bengal,Tier 3,Sweets & Dry Fruits,Debit Card,Male,1,754,15,641,4.7
+DW00724,2026-10-03,Delhi,Tier 2,Fashion,Wallet,Male,1,1546,0,1546,3.4
+DW00774,2026-10-03,Karnataka,Tier 1,Home Decor,Cash on Delivery,Female,1,850,20,680,4.0
+DW00910,2026-10-03,Maharashtra,Tier 2,Jewellery,UPI,Female,3,17789,20,42694,4.8
+DW00983,2026-10-03,Delhi,Tier 1,Electronics,UPI,Female,2,9262,20,14819,3.3
+DW01124,2026-10-03,Gujarat,Tier 1,Fashion,Debit Card,Female,1,1709,20,1367,4.1
+DW01209,2026-10-03,Rajasthan,Tier 3,Electronics,Credit Card,Male,2,9457,25,14186,4.7
+DW01219,2026-10-03,Maharashtra,Tier 1,Electronics,UPI,Female,1,11871,25,8903,4.0
+DW01239,2026-10-03,Gujarat,Tier 2,Gifts & Hampers,Credit Card,Male,1,2171,5,2062,4.2
+DW01362,2026-10-03,Delhi,Tier 3,Home Decor,Cash on Delivery,Female,1,1676,0,1676,3.2
+DW01446,2026-10-03,Karnataka,Tier 2,Electronics,UPI,Male,1,7175,25,5381,3.4
+DW00033,2026-10-04,Maharashtra,Tier 1,Sweets & Dry Fruits,Credit Card,Male,4,507,25,1521,4.2
+DW00097,2026-10-04,Gujarat,Tier 3,Home Decor,Debit Card,Female,3,1272,25,2862,4.7
+DW00123,2026-10-04,Delhi,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,1,589,15,501,3.6
+DW00154,2026-10-04,Karnataka,Tier 2,Jewellery,UPI,Female,2,15883,25,23824,3.3
+DW00320,2026-10-04,Maharashtra,Tier 1,Fashion,UPI,Female,2,1691,0,3382,3.2
+DW00337,2026-10-04,Tamil Nadu,Tier 3,Sweets & Dry Fruits,Debit Card,Female,1,471,0,471,4.4
+DW00404,2026-10-04,Delhi,Tier 2,Electronics,UPI,Male,1,12257,0,12257,3.4
+DW00437,2026-10-04,Karnataka,Tier 2,Jewellery,UPI,Male,2,20338,15,34575,3.7
+DW00467,2026-10-04,Karnataka,Tier 2,Sweets & Dry Fruits,UPI,Male,1,692,5,657,4.3
+DW00668,2026-10-04,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,1010,15,858,4.0
+DW00684,2026-10-04,Tamil Nadu,Tier 3,Electronics,UPI,Female,2,12346,20,19754,3.8
+DW00953,2026-10-04,Tamil Nadu,Tier 1,Electronics,Debit Card,Male,1,7590,15,6452,4.1
+DW01039,2026-10-04,Delhi,Tier 1,Fashion,Credit Card,Male,1,2930,10,2637,4.6
+DW01148,2026-10-04,Tamil Nadu,Tier 3,Gifts & Hampers,UPI,Male,1,1001,15,851,3.6
+DW01164,2026-10-04,Delhi,Tier 2,Electronics,Wallet,Female,1,9618,10,8656,4.5
+DW01205,2026-10-04,Gujarat,Tier 1,Jewellery,UPI,Female,2,15496,5,29442,3.5
+DW01218,2026-10-04,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Female,1,1066,0,1066,3.5
+DW01289,2026-10-04,Karnataka,Tier 1,Fashion,UPI,Male,1,2369,25,1777,4.3
+DW01307,2026-10-04,Tamil Nadu,Tier 2,Fashion,UPI,Male,1,1876,20,1501,4.5
+DW01334,2026-10-04,Rajasthan,Tier 2,Sweets & Dry Fruits,UPI,Female,1,463,10,417,4.7
+DW01418,2026-10-04,Madhya Pradesh,Tier 3,Jewellery,Cash on Delivery,Male,1,10669,5,10136,4.8
+DW01421,2026-10-04,Tamil Nadu,Tier 3,Sweets & Dry Fruits,Cash on Delivery,Female,1,508,20,406,4.2
+DW00027,2026-10-05,Delhi,Tier 2,Electronics,Debit Card,Male,4,12345,10,44442,4.9
+DW00036,2026-10-05,West Bengal,Tier 1,Fashion,Debit Card,Female,1,2933,20,2346,3.5
+DW00555,2026-10-05,West Bengal,Tier 1,Electronics,Credit Card,Female,1,8612,10,7751,4.7
+DW00581,2026-10-05,Maharashtra,Tier 1,Fashion,Cash on Delivery,Male,1,3283,0,3283,3.3
+DW00777,2026-10-05,Maharashtra,Tier 1,Electronics,UPI,Female,1,5887,25,4415,3.9
+DW00828,2026-10-05,Telangana,Tier 3,Electronics,Credit Card,Female,3,7855,5,22387,3.3
+DW00850,2026-10-05,Karnataka,Tier 2,Fashion,Cash on Delivery,Female,2,3200,15,5440,4.0
+DW00914,2026-10-05,Karnataka,Tier 2,Jewellery,Debit Card,Female,2,12146,0,24292,3.3
+DW01268,2026-10-05,Karnataka,Tier 3,Fashion,UPI,Female,1,2019,10,1817,3.6
+DW01293,2026-10-05,Maharashtra,Tier 1,Fashion,UPI,Female,1,2859,15,2430,4.5
+DW01399,2026-10-05,Delhi,Tier 3,Fashion,UPI,Female,2,3064,20,4902,4.0
+DW01484,2026-10-05,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,1,1562,15,1328,3.3
+DW00035,2026-10-06,Maharashtra,Tier 2,Electronics,Debit Card,Female,1,11436,15,9721,4.9
+DW00313,2026-10-06,Telangana,Tier 1,Sweets & Dry Fruits,Debit Card,Female,2,675,15,1148,4.5
+DW00364,2026-10-06,Delhi,Tier 1,Home Decor,Wallet,Female,1,1549,5,1472,4.9
+DW00425,2026-10-06,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Female,1,664,5,631,3.5
+DW00513,2026-10-06,Tamil Nadu,Tier 3,Electronics,UPI,Male,3,6530,10,17631,4.1
+DW00529,2026-10-06,Maharashtra,Tier 1,Fashion,Credit Card,Male,1,3673,25,2755,4.0
+DW00594,2026-10-06,Rajasthan,Tier 2,Fashion,Wallet,Male,1,1919,0,1919,4.3
+DW00645,2026-10-06,Delhi,Tier 1,Electronics,Debit Card,Male,3,11975,5,34129,3.9
+DW00826,2026-10-06,Uttar Pradesh,Tier 1,Gifts & Hampers,Cash on Delivery,Male,1,1516,0,1516,4.0
+DW00852,2026-10-06,Madhya Pradesh,Tier 3,Fashion,UPI,Male,2,3372,15,5732,3.5
+DW01010,2026-10-06,Delhi,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,1045,10,940,3.6
+DW01323,2026-10-06,Telangana,Tier 3,Gifts & Hampers,Credit Card,Male,2,1116,25,1674,4.1
+DW01415,2026-10-06,Maharashtra,Tier 1,Fashion,Debit Card,Male,3,2861,20,6866,4.3
+DW00165,2026-10-07,Maharashtra,Tier 1,Fashion,UPI,Male,1,1540,20,1232,5.0
+DW00355,2026-10-07,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,1,1351,5,1283,3.2
+DW00515,2026-10-07,Uttar Pradesh,Tier 1,Fashion,Debit Card,Female,2,1618,25,2427,3.3
+DW00592,2026-10-07,Maharashtra,Tier 1,Fashion,UPI,Female,1,1635,0,1635,4.4
+DW00672,2026-10-07,Rajasthan,Tier 3,Fashion,UPI,Female,1,2763,0,2763,4.5
+DW00677,2026-10-07,Uttar Pradesh,Tier 2,Gifts & Hampers,Debit Card,Male,1,1061,15,902,3.6
+DW00760,2026-10-07,Karnataka,Tier 1,Electronics,Debit Card,Male,1,9097,15,7732,3.7
+DW00814,2026-10-07,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,1,933,25,700,4.4
+DW00899,2026-10-07,Uttar Pradesh,Tier 3,Fashion,UPI,Male,1,2961,5,2813,3.3
+DW00933,2026-10-07,Tamil Nadu,Tier 1,Electronics,Cash on Delivery,Female,3,7011,25,15775,4.6
+DW00966,2026-10-07,Delhi,Tier 2,Electronics,Debit Card,Female,1,8635,0,8635,3.9
+DW01023,2026-10-07,Uttar Pradesh,Tier 2,Home Decor,UPI,Male,1,1180,10,1062,4.4
+DW01028,2026-10-07,Rajasthan,Tier 2,Fashion,UPI,Female,1,3183,10,2865,3.3
+DW01087,2026-10-07,Telangana,Tier 2,Fashion,Wallet,Male,1,3169,0,3169,3.8
+DW01174,2026-10-07,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,1,810,0,810,4.7
+DW01183,2026-10-07,Uttar Pradesh,Tier 2,Electronics,Credit Card,Male,1,10022,0,10022,3.8
+DW00006,2026-10-08,Uttar Pradesh,Tier 2,Jewellery,Debit Card,Male,1,8720,5,8284,4.9
+DW00180,2026-10-08,Maharashtra,Tier 1,Fashion,UPI,Male,1,3308,10,2977,3.4
+DW00422,2026-10-08,Maharashtra,Tier 1,Fashion,Debit Card,Female,2,3744,5,7114,3.4
+DW00475,2026-10-08,Delhi,Tier 1,Electronics,UPI,Female,2,10710,10,19278,4.8
+DW00482,2026-10-08,Madhya Pradesh,Tier 2,Fashion,UPI,Male,2,1578,5,2998,3.4
+DW00590,2026-10-08,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,1,682,5,648,4.3
+DW00633,2026-10-08,Tamil Nadu,Tier 2,Fashion,Debit Card,Female,1,2054,25,1540,4.4
+DW00728,2026-10-08,Gujarat,Tier 2,Electronics,UPI,Male,2,11217,15,19069,3.6
+DW00821,2026-10-08,Tamil Nadu,Tier 2,Electronics,UPI,Male,1,10495,20,8396,4.5
+DW00881,2026-10-08,Maharashtra,Tier 2,Home Decor,UPI,Male,4,1197,15,4070,5.0
+DW00950,2026-10-08,Uttar Pradesh,Tier 2,Jewellery,UPI,Male,2,20363,5,38690,4.3
+DW00969,2026-10-08,Uttar Pradesh,Tier 2,Electronics,UPI,Female,3,6401,25,14402,4.9
+DW01057,2026-10-08,Karnataka,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,1,1048,10,943,4.1
+DW01202,2026-10-08,Uttar Pradesh,Tier 2,Fashion,Wallet,Male,4,1889,25,5667,4.2
+DW01354,2026-10-08,Tamil Nadu,Tier 2,Fashion,UPI,Female,1,3144,0,3144,4.8
+DW01381,2026-10-08,Telangana,Tier 3,Electronics,Credit Card,Male,1,8300,15,7055,3.5
+DW01398,2026-10-08,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,1,477,10,429,4.2
+DW01432,2026-10-08,Delhi,Tier 1,Fashion,Credit Card,Male,2,1765,25,2648,3.9
+DW00138,2026-10-09,Karnataka,Tier 2,Fashion,UPI,Female,2,3169,20,5070,3.9
+DW00215,2026-10-09,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,10542,15,8961,4.1
+DW00235,2026-10-09,Delhi,Tier 1,Electronics,UPI,Male,1,10544,0,10544,3.3
+DW00285,2026-10-09,Maharashtra,Tier 1,Electronics,UPI,Female,1,7715,10,6944,4.7
+DW00516,2026-10-09,Tamil Nadu,Tier 3,Jewellery,UPI,Female,3,15079,5,42975,4.0
+DW00658,2026-10-09,Rajasthan,Tier 1,Fashion,UPI,Female,1,2439,25,1829,3.7
+DW00711,2026-10-09,Uttar Pradesh,Tier 2,Electronics,Cash on Delivery,Male,1,6965,15,5920,4.9
+DW00738,2026-10-09,Uttar Pradesh,Tier 2,Gifts & Hampers,Cash on Delivery,Female,1,1745,20,1396,4.6
+DW00800,2026-10-09,Delhi,Tier 1,Jewellery,UPI,Female,2,14842,10,26716,4.5
+DW00862,2026-10-09,Karnataka,Tier 1,Gifts & Hampers,UPI,Male,4,1311,15,4457,3.4
+DW00908,2026-10-09,Delhi,Tier 1,Gifts & Hampers,Debit Card,Female,1,1264,10,1138,4.3
+DW00912,2026-10-09,Maharashtra,Tier 1,Electronics,UPI,Male,1,5809,0,5809,4.0
+DW01096,2026-10-09,Tamil Nadu,Tier 2,Electronics,UPI,Female,2,7144,20,11430,4.7
+DW01181,2026-10-09,Tamil Nadu,Tier 2,Electronics,UPI,Female,1,9355,25,7016,4.4
+DW01260,2026-10-09,Madhya Pradesh,Tier 2,Electronics,UPI,Female,1,10837,20,8670,3.8
+DW01278,2026-10-09,Tamil Nadu,Tier 1,Jewellery,Cash on Delivery,Male,2,17267,25,25900,4.6
+DW01366,2026-10-09,Maharashtra,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,4,437,10,1573,4.1
+DW01427,2026-10-09,West Bengal,Tier 3,Sweets & Dry Fruits,Debit Card,Male,1,786,5,747,4.6
+DW01492,2026-10-09,Uttar Pradesh,Tier 1,Electronics,UPI,Male,1,9609,25,7207,3.6
+DW00189,2026-10-10,Maharashtra,Tier 1,Electronics,UPI,Female,1,11877,10,10689,4.6
+DW00280,2026-10-10,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,1,463,10,417,3.7
+DW00412,2026-10-10,Uttar Pradesh,Tier 2,Home Decor,Cash on Delivery,Male,2,769,0,1538,3.4
+DW00571,2026-10-10,West Bengal,Tier 2,Sweets & Dry Fruits,Debit Card,Female,3,849,15,2165,4.2
+DW00657,2026-10-10,Uttar Pradesh,Tier 1,Home Decor,UPI,Male,1,1440,5,1368,4.1
+DW00690,2026-10-10,Maharashtra,Tier 2,Electronics,Cash on Delivery,Female,2,9559,5,18162,3.6
+DW00708,2026-10-10,Maharashtra,Tier 3,Fashion,Debit Card,Female,2,2715,5,5158,4.3
+DW00716,2026-10-10,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Male,1,910,0,910,4.2
+DW00768,2026-10-10,Uttar Pradesh,Tier 1,Home Decor,UPI,Female,3,1544,15,3937,4.2
+DW00835,2026-10-10,Maharashtra,Tier 3,Gifts & Hampers,UPI,Male,3,2146,25,4828,3.5
+DW01192,2026-10-10,Delhi,Tier 1,Fashion,UPI,Female,4,1576,5,5989,3.4
+DW01291,2026-10-10,Delhi,Tier 3,Sweets & Dry Fruits,Cash on Delivery,Male,1,892,10,803,3.4
+DW01348,2026-10-10,Madhya Pradesh,Tier 2,Fashion,Credit Card,Female,3,2476,15,6314,3.4
+DW01473,2026-10-10,Gujarat,Tier 2,Home Decor,Credit Card,Male,2,1298,5,2466,4.3
+DW00063,2026-10-11,West Bengal,Tier 3,Electronics,UPI,Male,2,6437,5,12230,4.6
+DW00091,2026-10-11,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Male,1,481,10,433,4.7
+DW00108,2026-10-11,Gujarat,Tier 1,Home Decor,UPI,Female,3,1506,15,3840,4.9
+DW00125,2026-10-11,Uttar Pradesh,Tier 2,Home Decor,UPI,Female,3,732,10,1976,3.4
+DW00196,2026-10-11,Delhi,Tier 3,Fashion,Wallet,Male,1,2250,10,2025,4.5
+DW00521,2026-10-11,Maharashtra,Tier 3,Electronics,UPI,Male,1,5619,10,5057,3.3
+DW00586,2026-10-11,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,1,1135,15,965,3.6
+DW00916,2026-10-11,Gujarat,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,764,0,764,4.6
+DW00986,2026-10-11,Delhi,Tier 2,Fashion,UPI,Male,1,2573,15,2187,3.5
+DW00991,2026-10-11,Uttar Pradesh,Tier 3,Jewellery,UPI,Female,4,20714,0,82856,4.4
+DW01136,2026-10-11,Rajasthan,Tier 1,Sweets & Dry Fruits,Credit Card,Female,4,671,25,2013,3.8
+DW01156,2026-10-11,Gujarat,Tier 2,Fashion,Credit Card,Male,1,3032,10,2729,4.1
+DW01370,2026-10-11,West Bengal,Tier 2,Home Decor,Debit Card,Male,2,1724,5,3276,4.4
+DW01371,2026-10-11,Gujarat,Tier 1,Sweets & Dry Fruits,Wallet,Female,3,439,5,1251,3.4
+DW01388,2026-10-11,Uttar Pradesh,Tier 3,Gifts & Hampers,UPI,Male,1,925,25,694,4.3
+DW01436,2026-10-11,Telangana,Tier 2,Electronics,Debit Card,Female,2,12438,20,19901,3.6
+DW00143,2026-10-12,Delhi,Tier 1,Electronics,UPI,Female,1,9545,0,9545,3.2
+DW00229,2026-10-12,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Cash on Delivery,Male,1,1010,25,758,4.5
+DW00289,2026-10-12,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,1,899,10,809,4.4
+DW00367,2026-10-12,Delhi,Tier 2,Gifts & Hampers,Debit Card,Male,2,1905,15,3238,3.8
+DW00492,2026-10-12,Gujarat,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,633,5,601,3.5
+DW00535,2026-10-12,Karnataka,Tier 2,Home Decor,Credit Card,Female,2,961,0,1922,4.3
+DW00574,2026-10-12,Karnataka,Tier 1,Electronics,Wallet,Female,1,11569,10,10412,4.5
+DW00737,2026-10-12,West Bengal,Tier 2,Fashion,Debit Card,Male,2,3598,0,7196,3.3
+DW00847,2026-10-12,Tamil Nadu,Tier 3,Home Decor,Debit Card,Female,1,1679,10,1511,3.5
+DW01009,2026-10-12,Rajasthan,Tier 3,Fashion,UPI,Male,4,3023,0,12092,3.8
+DW01014,2026-10-12,Tamil Nadu,Tier 3,Fashion,Credit Card,Male,1,1650,5,1568,3.5
+DW01161,2026-10-12,Gujarat,Tier 2,Electronics,Debit Card,Male,1,9578,25,7184,4.0
+DW01265,2026-10-12,Maharashtra,Tier 1,Sweets & Dry Fruits,Credit Card,Male,2,841,20,1346,4.9
+DW01277,2026-10-12,Karnataka,Tier 1,Gifts & Hampers,UPI,Female,3,1710,10,4617,4.0
+DW00014,2026-10-13,Tamil Nadu,Tier 3,Gifts & Hampers,Credit Card,Female,1,1873,5,1779,4.3
+DW00028,2026-10-13,Delhi,Tier 3,Fashion,Credit Card,Female,3,3045,20,7308,3.9
+DW00056,2026-10-13,Karnataka,Tier 1,Fashion,UPI,Female,1,2948,5,2801,3.7
+DW00101,2026-10-13,Madhya Pradesh,Tier 1,Electronics,UPI,Male,1,6621,25,4966,4.7
+DW00109,2026-10-13,West Bengal,Tier 3,Electronics,Debit Card,Male,2,8135,10,14643,4.4
+DW00133,2026-10-13,Gujarat,Tier 3,Gifts & Hampers,Cash on Delivery,Female,3,1346,0,4038,3.5
+DW00174,2026-10-13,Karnataka,Tier 3,Home Decor,Cash on Delivery,Female,2,1140,25,1710,3.8
+DW00203,2026-10-13,Telangana,Tier 2,Electronics,Wallet,Female,2,10955,10,19719,5.0
+DW00225,2026-10-13,Uttar Pradesh,Tier 3,Home Decor,UPI,Female,1,913,5,867,4.1
+DW00321,2026-10-13,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Female,1,850,10,765,4.9
+DW00333,2026-10-13,Delhi,Tier 3,Sweets & Dry Fruits,UPI,Male,2,1033,0,2066,4.2
+DW00408,2026-10-13,Karnataka,Tier 1,Fashion,Debit Card,Male,1,3369,10,3032,3.3
+DW00526,2026-10-13,Uttar Pradesh,Tier 2,Fashion,UPI,Male,2,2115,20,3384,3.5
+DW00615,2026-10-13,Uttar Pradesh,Tier 3,Home Decor,Wallet,Female,4,1129,5,4290,4.3
+DW00660,2026-10-13,Karnataka,Tier 1,Electronics,Credit Card,Male,2,10583,25,15874,3.9
+DW00666,2026-10-13,Maharashtra,Tier 1,Home Decor,Credit Card,Male,1,1623,5,1542,4.5
+DW00669,2026-10-13,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Male,2,477,20,763,4.5
+DW00924,2026-10-13,Karnataka,Tier 3,Fashion,Cash on Delivery,Male,1,2597,25,1948,4.0
+DW01042,2026-10-13,Karnataka,Tier 1,Electronics,UPI,Female,1,10116,0,10116,4.6
+DW01081,2026-10-13,Rajasthan,Tier 3,Gifts & Hampers,Credit Card,Female,1,1638,5,1556,3.8
+DW01169,2026-10-13,Tamil Nadu,Tier 2,Electronics,UPI,Female,3,10324,10,27875,4.4
+DW01172,2026-10-13,Maharashtra,Tier 1,Fashion,Wallet,Female,2,1687,10,3037,4.2
+DW01298,2026-10-13,Delhi,Tier 2,Electronics,Debit Card,Female,1,11282,15,9590,4.1
+DW01299,2026-10-13,Delhi,Tier 2,Fashion,Debit Card,Male,1,2788,20,2230,4.7
+DW01387,2026-10-13,Rajasthan,Tier 2,Fashion,UPI,Male,1,3382,10,3044,3.3
+DW00040,2026-10-14,Delhi,Tier 2,Electronics,UPI,Female,2,6714,10,12085,3.8
+DW00048,2026-10-14,Maharashtra,Tier 3,Electronics,UPI,Male,1,9815,10,8834,4.2
+DW00087,2026-10-14,Karnataka,Tier 1,Electronics,Credit Card,Female,1,13223,15,11240,4.1
+DW00137,2026-10-14,Tamil Nadu,Tier 1,Fashion,UPI,Male,2,2108,25,3162,4.2
+DW00318,2026-10-14,Rajasthan,Tier 3,Fashion,Wallet,Male,4,2370,15,8058,5.0
+DW00429,2026-10-14,Karnataka,Tier 1,Fashion,UPI,Male,2,3723,10,6701,3.5
+DW00444,2026-10-14,Karnataka,Tier 1,Gifts & Hampers,Cash on Delivery,Female,2,1597,25,2396,3.5
+DW00471,2026-10-14,Rajasthan,Tier 3,Fashion,Credit Card,Female,2,2213,0,4426,3.7
+DW00640,2026-10-14,Karnataka,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Male,2,761,0,1522,3.7
+DW00741,2026-10-14,West Bengal,Tier 1,Electronics,Credit Card,Female,2,8793,0,17586,3.6
+DW01119,2026-10-14,Karnataka,Tier 1,Fashion,Debit Card,Female,1,3364,15,2859,4.5
+DW01152,2026-10-14,Maharashtra,Tier 1,Fashion,UPI,Male,1,2939,10,2645,4.7
+DW01194,2026-10-14,Tamil Nadu,Tier 2,Jewellery,Cash on Delivery,Female,1,20089,20,16071,4.8
+DW01306,2026-10-14,Tamil Nadu,Tier 2,Fashion,Debit Card,Female,1,1856,10,1670,4.7
+DW01380,2026-10-14,Maharashtra,Tier 1,Fashion,Wallet,Male,3,1901,25,4277,4.2
+DW01429,2026-10-14,Maharashtra,Tier 1,Fashion,Debit Card,Female,2,1648,20,2637,4.5
+DW00021,2026-10-15,Delhi,Tier 2,Fashion,Credit Card,Female,1,2552,10,2297,3.4
+DW00045,2026-10-15,Maharashtra,Tier 2,Jewellery,UPI,Female,2,11743,25,17614,4.0
+DW00072,2026-10-15,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Male,1,594,0,594,3.3
+DW00086,2026-10-15,Rajasthan,Tier 3,Electronics,Cash on Delivery,Male,3,11710,15,29860,4.4
+DW00298,2026-10-15,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Female,1,961,5,913,3.7
+DW00454,2026-10-15,Karnataka,Tier 2,Electronics,UPI,Male,3,11004,10,29711,4.1
+DW00486,2026-10-15,West Bengal,Tier 2,Fashion,Debit Card,Male,1,2709,20,2167,4.2
+DW00506,2026-10-15,West Bengal,Tier 3,Electronics,Credit Card,Male,1,5584,20,4467,4.7
+DW00579,2026-10-15,Maharashtra,Tier 1,Gifts & Hampers,Debit Card,Male,1,1474,10,1327,4.2
+DW00752,2026-10-15,West Bengal,Tier 2,Jewellery,UPI,Male,3,11633,15,29664,4.6
+DW00959,2026-10-15,Tamil Nadu,Tier 3,Fashion,UPI,Male,3,3589,15,9152,4.7
+DW01051,2026-10-15,Tamil Nadu,Tier 3,Electronics,UPI,Male,2,13028,5,24753,4.4
+DW01075,2026-10-15,Maharashtra,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,3,859,25,1933,4.6
+DW01261,2026-10-15,Gujarat,Tier 3,Electronics,UPI,Male,1,12335,5,11718,3.3
+DW01304,2026-10-15,Uttar Pradesh,Tier 3,Electronics,Credit Card,Female,2,12204,15,20747,3.3
+DW01372,2026-10-15,Karnataka,Tier 1,Jewellery,Credit Card,Female,1,20371,0,20371,4.9
+DW01402,2026-10-15,Maharashtra,Tier 1,Home Decor,Debit Card,Female,1,1114,0,1114,4.2
+DW00088,2026-10-16,Gujarat,Tier 2,Sweets & Dry Fruits,Wallet,Male,1,658,5,625,3.8
+DW00095,2026-10-16,Madhya Pradesh,Tier 2,Electronics,UPI,Female,1,10432,5,9910,4.4
+DW00098,2026-10-16,Uttar Pradesh,Tier 2,Electronics,Cash on Delivery,Male,1,10445,10,9400,4.2
+DW00223,2026-10-16,Madhya Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Female,1,467,25,350,3.8
+DW00293,2026-10-16,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,1,500,25,375,4.9
+DW00361,2026-10-16,Delhi,Tier 2,Fashion,UPI,Female,2,2487,5,4725,4.1
+DW00445,2026-10-16,Tamil Nadu,Tier 2,Fashion,Cash on Delivery,Male,1,2884,25,2163,4.5
+DW00463,2026-10-16,Karnataka,Tier 3,Jewellery,Cash on Delivery,Male,2,17105,0,34210,4.7
+DW00488,2026-10-16,Uttar Pradesh,Tier 3,Gifts & Hampers,Debit Card,Female,1,1620,20,1296,3.6
+DW00541,2026-10-16,Gujarat,Tier 1,Fashion,UPI,Female,1,3543,0,3543,3.6
+DW00583,2026-10-16,Uttar Pradesh,Tier 2,Jewellery,UPI,Female,1,11220,15,9537,4.7
+DW00662,2026-10-16,West Bengal,Tier 3,Fashion,UPI,Female,1,3525,5,3349,4.8
+DW00841,2026-10-16,West Bengal,Tier 3,Sweets & Dry Fruits,Wallet,Female,1,827,5,786,3.3
+DW00855,2026-10-16,Karnataka,Tier 1,Electronics,Wallet,Male,2,12500,20,20000,3.5
+DW00868,2026-10-16,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Female,1,647,20,518,4.7
+DW00954,2026-10-16,Maharashtra,Tier 1,Home Decor,Credit Card,Male,2,1177,15,2001,4.0
+DW00995,2026-10-16,West Bengal,Tier 3,Electronics,Debit Card,Male,2,11855,25,17782,4.5
+DW01027,2026-10-16,Maharashtra,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,587,5,558,3.7
+DW01035,2026-10-16,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Debit Card,Male,1,842,20,674,3.9
+DW01066,2026-10-16,Madhya Pradesh,Tier 3,Electronics,UPI,Female,1,5894,15,5010,4.4
+DW01115,2026-10-16,Maharashtra,Tier 2,Electronics,Wallet,Female,1,7832,15,6657,4.2
+DW01208,2026-10-16,Maharashtra,Tier 2,Jewellery,UPI,Male,2,13368,20,21389,4.9
+DW01280,2026-10-16,Maharashtra,Tier 1,Electronics,UPI,Female,1,12400,25,9300,4.3
+DW01331,2026-10-16,Maharashtra,Tier 1,Jewellery,UPI,Female,1,9662,25,7246,4.0
+DW01346,2026-10-16,Delhi,Tier 2,Gifts & Hampers,Cash on Delivery,Male,1,1167,10,1050,3.2
+DW01350,2026-10-16,Tamil Nadu,Tier 2,Fashion,Cash on Delivery,Male,1,2400,20,1920,4.7
+DW01386,2026-10-16,Delhi,Tier 2,Fashion,UPI,Male,1,1579,10,1421,4.5
+DW01476,2026-10-16,Tamil Nadu,Tier 3,Sweets & Dry Fruits,UPI,Male,1,925,5,879,4.4
+DW01488,2026-10-16,Madhya Pradesh,Tier 2,Gifts & Hampers,UPI,Female,1,1063,5,1010,3.7
+DW00070,2026-10-17,Maharashtra,Tier 3,Sweets & Dry Fruits,UPI,Male,2,728,5,1383,4.2
+DW00116,2026-10-17,Gujarat,Tier 1,Gifts & Hampers,Credit Card,Male,1,1321,10,1189,4.3
+DW00192,2026-10-17,Telangana,Tier 2,Jewellery,UPI,Male,2,16190,25,24285,3.3
+DW00197,2026-10-17,Karnataka,Tier 1,Fashion,UPI,Female,2,1810,10,3258,3.8
+DW00428,2026-10-17,Rajasthan,Tier 2,Gifts & Hampers,UPI,Male,1,1570,15,1334,3.4
+DW00517,2026-10-17,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Female,3,422,15,1076,4.9
+DW00596,2026-10-17,Karnataka,Tier 2,Home Decor,Cash on Delivery,Male,3,1152,20,2765,3.2
+DW00655,2026-10-17,Gujarat,Tier 3,Electronics,Debit Card,Male,1,5983,5,5684,4.0
+DW00697,2026-10-17,Gujarat,Tier 2,Home Decor,Cash on Delivery,Male,1,1092,20,874,4.8
+DW00701,2026-10-17,Telangana,Tier 2,Home Decor,UPI,Female,2,1609,25,2414,3.8
+DW00764,2026-10-17,Rajasthan,Tier 3,Gifts & Hampers,UPI,Female,2,2241,25,3362,4.3
+DW00785,2026-10-17,Maharashtra,Tier 2,Home Decor,Credit Card,Female,2,1596,5,3032,4.7
+DW00903,2026-10-17,West Bengal,Tier 1,Electronics,Debit Card,Female,1,6272,5,5958,4.9
+DW01005,2026-10-17,Gujarat,Tier 2,Electronics,Credit Card,Male,1,7422,20,5938,4.3
+DW01022,2026-10-17,Delhi,Tier 2,Home Decor,Cash on Delivery,Male,1,1446,15,1229,3.9
+DW01074,2026-10-17,Maharashtra,Tier 2,Electronics,Credit Card,Male,2,12792,20,20467,3.6
+DW01111,2026-10-17,Maharashtra,Tier 1,Jewellery,Credit Card,Female,1,9292,10,8363,4.0
+DW01252,2026-10-17,Telangana,Tier 2,Electronics,UPI,Male,1,11464,25,8598,3.6
+DW01322,2026-10-17,Karnataka,Tier 3,Fashion,UPI,Female,1,1639,5,1557,3.2
+DW01404,2026-10-17,Rajasthan,Tier 1,Home Decor,Cash on Delivery,Female,2,744,0,1488,4.1
+DW01417,2026-10-17,Gujarat,Tier 1,Electronics,UPI,Female,1,12907,25,9680,5.0
+DW00099,2026-10-18,West Bengal,Tier 1,Home Decor,UPI,Male,1,909,20,727,4.0
+DW00253,2026-10-18,Maharashtra,Tier 2,Fashion,UPI,Female,2,1601,15,2722,4.4
+DW00266,2026-10-18,Delhi,Tier 3,Jewellery,UPI,Female,1,9993,5,9493,3.5
+DW00310,2026-10-18,Telangana,Tier 2,Gifts & Hampers,Cash on Delivery,Female,3,943,10,2546,4.7
+DW00319,2026-10-18,Uttar Pradesh,Tier 2,Home Decor,UPI,Male,1,1284,10,1156,3.7
+DW00340,2026-10-18,Maharashtra,Tier 1,Electronics,Debit Card,Female,2,13223,10,23801,3.7
+DW00350,2026-10-18,Uttar Pradesh,Tier 2,Fashion,UPI,Female,2,3503,0,7006,3.3
+DW00358,2026-10-18,Gujarat,Tier 3,Jewellery,Debit Card,Female,3,17504,20,42010,4.5
+DW00363,2026-10-18,Delhi,Tier 1,Fashion,Credit Card,Male,4,1956,5,7433,4.5
+DW00376,2026-10-18,Delhi,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,4,638,25,1914,3.2
+DW00400,2026-10-18,Delhi,Tier 1,Gifts & Hampers,Cash on Delivery,Female,3,1140,25,2565,4.8
+DW00465,2026-10-18,Tamil Nadu,Tier 2,Home Decor,UPI,Female,1,919,10,827,4.2
+DW00489,2026-10-18,Maharashtra,Tier 1,Electronics,UPI,Female,4,8511,5,32342,4.5
+DW00510,2026-10-18,Maharashtra,Tier 1,Electronics,UPI,Female,1,12386,0,12386,3.8
+DW00576,2026-10-18,Delhi,Tier 3,Gifts & Hampers,Debit Card,Male,1,1520,25,1140,3.7
+DW00663,2026-10-18,Tamil Nadu,Tier 3,Jewellery,UPI,Male,2,13434,25,20151,3.6
+DW00675,2026-10-18,Madhya Pradesh,Tier 1,Home Decor,Cash on Delivery,Female,2,992,10,1786,4.7
+DW00702,2026-10-18,Rajasthan,Tier 3,Electronics,Wallet,Male,1,10207,20,8166,4.7
+DW00718,2026-10-18,Madhya Pradesh,Tier 2,Electronics,Cash on Delivery,Female,3,5953,5,16966,4.8
+DW00778,2026-10-18,Gujarat,Tier 3,Home Decor,UPI,Male,3,1466,0,4398,4.7
+DW00792,2026-10-18,Delhi,Tier 1,Electronics,UPI,Male,1,11498,0,11498,4.3
+DW00893,2026-10-18,Delhi,Tier 2,Fashion,UPI,Female,2,2023,15,3439,4.7
+DW00957,2026-10-18,Uttar Pradesh,Tier 3,Fashion,UPI,Female,1,1571,25,1178,4.6
+DW01024,2026-10-18,West Bengal,Tier 2,Jewellery,UPI,Male,2,12604,5,23948,4.8
+DW01220,2026-10-18,Uttar Pradesh,Tier 2,Electronics,UPI,Female,2,5417,10,9751,3.4
+DW01245,2026-10-18,Karnataka,Tier 3,Electronics,UPI,Female,2,6383,25,9574,4.5
+DW01254,2026-10-18,Maharashtra,Tier 1,Home Decor,UPI,Female,2,1570,0,3140,3.4
+DW01264,2026-10-18,Delhi,Tier 1,Fashion,Credit Card,Female,1,2076,10,1868,4.7
+DW01282,2026-10-18,Uttar Pradesh,Tier 3,Fashion,UPI,Female,1,2125,0,2125,4.5
+DW01391,2026-10-18,West Bengal,Tier 1,Electronics,Debit Card,Female,3,13294,20,31906,4.6
+DW01441,2026-10-18,Rajasthan,Tier 2,Fashion,UPI,Male,3,2019,15,5148,3.9
+DW01480,2026-10-18,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,9039,10,8135,4.0
+DW00009,2026-10-19,Delhi,Tier 1,Home Decor,Debit Card,Female,1,1673,15,1422,3.8
+DW00051,2026-10-19,Maharashtra,Tier 2,Electronics,UPI,Female,1,10090,20,8072,4.7
+DW00160,2026-10-19,Uttar Pradesh,Tier 1,Fashion,UPI,Male,3,3179,0,9537,4.0
+DW00166,2026-10-19,Tamil Nadu,Tier 2,Home Decor,UPI,Male,1,843,25,632,4.9
+DW00205,2026-10-19,Maharashtra,Tier 3,Home Decor,Debit Card,Female,3,734,20,1762,3.4
+DW00302,2026-10-19,Karnataka,Tier 3,Electronics,Cash on Delivery,Female,1,12028,25,9021,4.7
+DW00375,2026-10-19,Gujarat,Tier 2,Jewellery,Credit Card,Female,1,10095,25,7571,3.5
+DW00426,2026-10-19,Delhi,Tier 3,Gifts & Hampers,UPI,Male,2,1895,5,3600,3.9
+DW00477,2026-10-19,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,Wallet,Female,1,557,0,557,3.3
+DW00532,2026-10-19,Uttar Pradesh,Tier 1,Jewellery,UPI,Male,1,10664,5,10131,3.8
+DW00587,2026-10-19,Karnataka,Tier 2,Home Decor,UPI,Female,3,1108,5,3158,3.4
+DW00617,2026-10-19,Maharashtra,Tier 1,Electronics,Debit Card,Male,1,11979,10,10781,4.3
+DW00646,2026-10-19,Uttar Pradesh,Tier 2,Fashion,UPI,Female,1,3650,25,2738,4.7
+DW00719,2026-10-19,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,3,444,15,1132,4.3
+DW00732,2026-10-19,Uttar Pradesh,Tier 3,Home Decor,UPI,Female,2,1700,5,3230,4.8
+DW00803,2026-10-19,Delhi,Tier 2,Home Decor,UPI,Male,1,1513,5,1437,4.1
+DW00830,2026-10-19,Rajasthan,Tier 3,Home Decor,Cash on Delivery,Male,1,1789,10,1610,4.7
+DW00878,2026-10-19,Rajasthan,Tier 3,Home Decor,Credit Card,Female,1,1273,0,1273,3.6
+DW00921,2026-10-19,Telangana,Tier 2,Sweets & Dry Fruits,UPI,Female,1,971,5,922,3.6
+DW00932,2026-10-19,Uttar Pradesh,Tier 1,Electronics,UPI,Male,1,6477,5,6153,4.7
+DW00935,2026-10-19,Karnataka,Tier 2,Fashion,UPI,Female,1,3332,0,3332,3.4
+DW01011,2026-10-19,Uttar Pradesh,Tier 2,Gifts & Hampers,Cash on Delivery,Male,1,1346,5,1279,3.6
+DW01133,2026-10-19,Telangana,Tier 3,Electronics,UPI,Male,1,6119,15,5201,3.6
+DW01201,2026-10-19,Delhi,Tier 1,Sweets & Dry Fruits,Wallet,Female,1,843,5,801,4.3
+DW01221,2026-10-19,Uttar Pradesh,Tier 2,Home Decor,UPI,Female,1,1095,15,931,4.7
+DW01326,2026-10-19,Uttar Pradesh,Tier 2,Electronics,Wallet,Female,3,11994,0,35982,3.5
+DW01344,2026-10-19,Delhi,Tier 2,Fashion,UPI,Male,2,3184,15,5413,3.2
+DW01345,2026-10-19,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Debit Card,Female,1,775,15,659,4.1
+DW01375,2026-10-19,Maharashtra,Tier 2,Gifts & Hampers,UPI,Female,1,1336,0,1336,4.1
+DW00030,2026-10-20,Tamil Nadu,Tier 3,Electronics,UPI,Male,1,5855,0,5855,3.4
+DW00110,2026-10-20,Uttar Pradesh,Tier 2,Fashion,Debit Card,Female,1,2338,15,1987,4.3
+DW00419,2026-10-20,Gujarat,Tier 2,Fashion,UPI,Male,1,2998,15,2548,3.3
+DW00469,2026-10-20,Gujarat,Tier 1,Electronics,UPI,Female,3,5712,0,17136,3.2
+DW00522,2026-10-20,Karnataka,Tier 1,Home Decor,UPI,Female,1,738,15,627,4.4
+DW00554,2026-10-20,West Bengal,Tier 2,Electronics,UPI,Female,1,9791,15,8322,3.3
+DW00654,2026-10-20,Karnataka,Tier 2,Sweets & Dry Fruits,UPI,Male,1,451,25,338,4.8
+DW00667,2026-10-20,Delhi,Tier 1,Home Decor,Debit Card,Female,2,1292,0,2584,4.7
+DW00712,2026-10-20,Maharashtra,Tier 2,Home Decor,Debit Card,Male,1,843,10,759,3.7
+DW00734,2026-10-20,Delhi,Tier 3,Electronics,UPI,Female,1,7136,5,6779,3.7
+DW00766,2026-10-20,Tamil Nadu,Tier 2,Electronics,Debit Card,Female,4,11910,25,35730,4.8
+DW00956,2026-10-20,Delhi,Tier 2,Gifts & Hampers,Credit Card,Male,2,2087,20,3339,4.3
+DW01118,2026-10-20,Uttar Pradesh,Tier 1,Electronics,Credit Card,Male,1,13247,10,11922,4.5
+DW01137,2026-10-20,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Female,2,523,25,784,3.8
+DW01200,2026-10-20,Tamil Nadu,Tier 1,Home Decor,Wallet,Male,2,1490,10,2682,3.6
+DW01273,2026-10-20,Telangana,Tier 2,Gifts & Hampers,Credit Card,Female,2,1667,0,3334,3.4
+DW01302,2026-10-20,Telangana,Tier 1,Fashion,Cash on Delivery,Male,1,1889,0,1889,3.7
+DW01358,2026-10-20,Delhi,Tier 1,Electronics,Credit Card,Female,2,9808,10,17654,4.7
+DW01439,2026-10-20,Maharashtra,Tier 1,Home Decor,UPI,Male,1,1573,15,1337,4.1
+DW01477,2026-10-20,Tamil Nadu,Tier 2,Electronics,Credit Card,Female,2,9154,0,18308,4.7
+DW01479,2026-10-20,Karnataka,Tier 3,Sweets & Dry Fruits,UPI,Male,2,735,15,1250,4.8
+DW01493,2026-10-20,Rajasthan,Tier 2,Home Decor,Debit Card,Female,2,1687,15,2868,4.1
+DW00005,2026-10-21,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,1,739,20,591,4.9
+DW00032,2026-10-21,Delhi,Tier 2,Electronics,Credit Card,Female,2,12971,25,19456,4.6
+DW00078,2026-10-21,Gujarat,Tier 2,Electronics,Credit Card,Male,1,13121,0,13121,4.3
+DW00106,2026-10-21,Maharashtra,Tier 3,Electronics,Credit Card,Female,1,12497,0,12497,3.8
+DW00248,2026-10-21,Karnataka,Tier 1,Electronics,UPI,Female,2,9422,5,17902,4.5
+DW00349,2026-10-21,Madhya Pradesh,Tier 2,Jewellery,UPI,Female,2,20196,0,40392,4.4
+DW00438,2026-10-21,Telangana,Tier 2,Electronics,UPI,Female,3,10764,25,24219,4.3
+DW00442,2026-10-21,Delhi,Tier 1,Electronics,UPI,Male,1,13023,20,10418,3.9
+DW00460,2026-10-21,Gujarat,Tier 3,Fashion,UPI,Male,1,3111,5,2955,4.7
+DW00534,2026-10-21,Tamil Nadu,Tier 2,Electronics,Debit Card,Male,4,12797,25,38391,4.1
+DW00559,2026-10-21,Uttar Pradesh,Tier 1,Gifts & Hampers,Cash on Delivery,Male,4,988,15,3359,3.3
+DW00562,2026-10-21,Madhya Pradesh,Tier 1,Fashion,UPI,Female,3,2332,10,6296,4.0
+DW00634,2026-10-21,Maharashtra,Tier 2,Fashion,Debit Card,Female,1,1531,10,1378,4.5
+DW00791,2026-10-21,Rajasthan,Tier 1,Electronics,Credit Card,Male,1,10871,5,10327,3.2
+DW00848,2026-10-21,Maharashtra,Tier 1,Electronics,Wallet,Female,2,6248,0,12496,4.7
+DW00849,2026-10-21,Delhi,Tier 1,Jewellery,Wallet,Female,2,17726,0,35452,3.5
+DW00970,2026-10-21,Madhya Pradesh,Tier 2,Jewellery,UPI,Male,1,20699,20,16559,3.6
+DW00980,2026-10-21,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Male,3,824,20,1978,3.4
+DW00988,2026-10-21,West Bengal,Tier 2,Electronics,Credit Card,Male,2,5466,10,9839,3.4
+DW01100,2026-10-21,Karnataka,Tier 1,Fashion,UPI,Female,1,3533,15,3003,4.1
+DW01112,2026-10-21,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,674,5,640,4.9
+DW01198,2026-10-21,Uttar Pradesh,Tier 1,Jewellery,Debit Card,Male,1,15902,15,13517,4.1
+DW01231,2026-10-21,Karnataka,Tier 3,Fashion,UPI,Male,2,2843,5,5402,4.0
+DW01342,2026-10-21,Rajasthan,Tier 3,Electronics,UPI,Male,2,10458,5,19870,3.8
+DW01397,2026-10-21,Gujarat,Tier 2,Gifts & Hampers,UPI,Female,1,1940,10,1746,3.7
+DW01461,2026-10-21,Delhi,Tier 3,Sweets & Dry Fruits,Credit Card,Male,2,1031,15,1753,4.1
+DW00003,2026-10-22,West Bengal,Tier 2,Gifts & Hampers,Debit Card,Male,1,1240,10,1116,4.5
+DW00025,2026-10-22,Maharashtra,Tier 1,Electronics,Credit Card,Female,2,10632,0,21264,4.3
+DW00169,2026-10-22,Delhi,Tier 2,Home Decor,Cash on Delivery,Female,1,1593,25,1195,3.7
+DW00201,2026-10-22,Delhi,Tier 2,Home Decor,Credit Card,Female,2,1425,0,2850,4.5
+DW00243,2026-10-22,Karnataka,Tier 1,Jewellery,Wallet,Female,2,11901,10,21422,4.1
+DW00256,2026-10-22,Delhi,Tier 1,Home Decor,UPI,Male,1,1467,0,1467,4.2
+DW00433,2026-10-22,West Bengal,Tier 2,Electronics,Debit Card,Male,2,8226,10,14807,3.5
+DW00498,2026-10-22,Delhi,Tier 1,Fashion,Debit Card,Female,2,2395,5,4550,3.5
+DW00549,2026-10-22,Uttar Pradesh,Tier 2,Electronics,UPI,Female,2,6310,15,10727,3.4
+DW00607,2026-10-22,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Female,1,642,25,482,4.3
+DW00685,2026-10-22,Delhi,Tier 3,Electronics,UPI,Female,4,10301,0,41204,3.7
+DW00747,2026-10-22,Uttar Pradesh,Tier 2,Home Decor,Credit Card,Female,1,1000,10,900,3.6
+DW00749,2026-10-22,Telangana,Tier 2,Fashion,UPI,Female,2,3598,5,6836,4.0
+DW00783,2026-10-22,Karnataka,Tier 1,Gifts & Hampers,Credit Card,Male,2,2169,0,4338,4.3
+DW00864,2026-10-22,Karnataka,Tier 1,Gifts & Hampers,Debit Card,Male,2,1638,25,2457,4.6
+DW00962,2026-10-22,Delhi,Tier 3,Fashion,UPI,Male,1,3353,20,2682,3.6
+DW01043,2026-10-22,Delhi,Tier 2,Fashion,UPI,Male,2,2495,20,3992,4.0
+DW01225,2026-10-22,Delhi,Tier 2,Electronics,UPI,Female,2,7070,5,13433,3.9
+DW01256,2026-10-22,Madhya Pradesh,Tier 1,Jewellery,Credit Card,Male,1,11962,0,11962,4.7
+DW01269,2026-10-22,Rajasthan,Tier 3,Electronics,Credit Card,Female,1,10762,10,9686,4.0
+DW01301,2026-10-22,Maharashtra,Tier 2,Electronics,Wallet,Male,1,10786,5,10247,4.9
+DW01457,2026-10-22,Maharashtra,Tier 1,Fashion,UPI,Male,1,2311,15,1964,4.9
+DW00134,2026-10-23,Delhi,Tier 3,Gifts & Hampers,UPI,Female,2,1530,15,2601,4.7
+DW00208,2026-10-23,West Bengal,Tier 2,Sweets & Dry Fruits,UPI,Female,1,690,25,518,4.4
+DW00308,2026-10-23,West Bengal,Tier 1,Home Decor,UPI,Female,3,1796,0,5388,4.5
+DW00689,2026-10-23,Rajasthan,Tier 2,Fashion,UPI,Female,1,3330,20,2664,4.0
+DW00696,2026-10-23,Gujarat,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,1010,15,858,4.6
+DW00700,2026-10-23,Karnataka,Tier 2,Gifts & Hampers,Debit Card,Male,1,1454,15,1236,4.1
+DW00720,2026-10-23,Karnataka,Tier 1,Fashion,UPI,Female,1,2317,15,1969,4.8
+DW00750,2026-10-23,Karnataka,Tier 1,Fashion,UPI,Male,2,2446,0,4892,4.4
+DW00755,2026-10-23,Maharashtra,Tier 3,Electronics,Debit Card,Female,1,5890,0,5890,3.9
+DW00759,2026-10-23,Karnataka,Tier 2,Gifts & Hampers,UPI,Female,4,1967,10,7081,4.6
+DW00964,2026-10-23,Tamil Nadu,Tier 1,Fashion,UPI,Female,2,1996,15,3393,3.8
+DW01008,2026-10-23,Delhi,Tier 1,Sweets & Dry Fruits,UPI,Male,2,746,25,1119,4.4
+DW01093,2026-10-23,Rajasthan,Tier 1,Electronics,Debit Card,Female,1,13490,5,12816,4.3
+DW01146,2026-10-23,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Male,1,471,5,447,4.4
+DW01196,2026-10-23,Gujarat,Tier 1,Electronics,Credit Card,Male,2,5857,0,11714,4.6
+DW01267,2026-10-23,Delhi,Tier 2,Electronics,UPI,Female,2,9262,20,14819,3.3
+DW01295,2026-10-23,Rajasthan,Tier 1,Sweets & Dry Fruits,UPI,Female,2,738,0,1476,3.4
+DW01314,2026-10-23,Gujarat,Tier 3,Gifts & Hampers,UPI,Female,1,1153,5,1095,3.9
+DW01328,2026-10-23,West Bengal,Tier 1,Electronics,Debit Card,Male,1,6334,0,6334,3.9
+DW01357,2026-10-23,Karnataka,Tier 3,Fashion,UPI,Male,1,3633,20,2906,4.8
+DW01460,2026-10-23,Uttar Pradesh,Tier 2,Fashion,Debit Card,Male,1,3504,10,3154,4.8
+DW01499,2026-10-23,West Bengal,Tier 2,Sweets & Dry Fruits,Debit Card,Female,1,607,0,607,5.0
+DW00017,2026-10-24,Gujarat,Tier 3,Fashion,Debit Card,Male,1,2550,20,2040,4.3
+DW00052,2026-10-24,Maharashtra,Tier 2,Gifts & Hampers,UPI,Male,2,2172,10,3910,4.6
+DW00127,2026-10-24,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,761,10,685,4.6
+DW00338,2026-10-24,Maharashtra,Tier 1,Electronics,Debit Card,Female,1,9245,25,6934,3.7
+DW00369,2026-10-24,Maharashtra,Tier 2,Gifts & Hampers,UPI,Male,2,1305,5,2480,3.3
+DW00420,2026-10-24,Karnataka,Tier 1,Fashion,Credit Card,Female,1,2800,20,2240,3.5
+DW00474,2026-10-24,West Bengal,Tier 1,Electronics,UPI,Female,1,8251,5,7838,4.4
+DW00485,2026-10-24,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,3,696,25,1566,3.7
+DW00487,2026-10-24,Rajasthan,Tier 2,Electronics,Debit Card,Male,1,7489,0,7489,4.8
+DW00490,2026-10-24,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,1,478,20,382,4.9
+DW00567,2026-10-24,Maharashtra,Tier 2,Fashion,Wallet,Female,1,3587,5,3408,4.7
+DW00613,2026-10-24,Maharashtra,Tier 1,Electronics,Credit Card,Male,1,11041,25,8281,3.9
+DW00637,2026-10-24,Maharashtra,Tier 1,Sweets & Dry Fruits,Debit Card,Female,2,987,5,1875,4.7
+DW00704,2026-10-24,Delhi,Tier 2,Home Decor,Debit Card,Female,3,1722,25,3874,3.4
+DW00923,2026-10-24,Uttar Pradesh,Tier 2,Fashion,UPI,Male,2,3414,15,5804,4.7
+DW00937,2026-10-24,Tamil Nadu,Tier 2,Fashion,Credit Card,Male,2,3520,5,6688,4.3
+DW01021,2026-10-24,Maharashtra,Tier 2,Electronics,Credit Card,Male,1,13046,20,10437,3.6
+DW01055,2026-10-24,Telangana,Tier 2,Home Decor,UPI,Female,1,792,15,673,3.8
+DW01162,2026-10-24,Uttar Pradesh,Tier 3,Electronics,Debit Card,Female,2,8765,20,14024,3.6
+DW01184,2026-10-24,Gujarat,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,663,25,497,4.0
+DW01191,2026-10-24,Uttar Pradesh,Tier 3,Electronics,Credit Card,Female,2,9420,0,18840,4.2
+DW01214,2026-10-24,Karnataka,Tier 3,Electronics,Credit Card,Female,3,8736,25,19656,4.6
+DW01243,2026-10-24,Maharashtra,Tier 1,Home Decor,UPI,Female,3,1296,15,3305,3.7
+DW01406,2026-10-24,Karnataka,Tier 1,Fashion,Cash on Delivery,Female,1,2160,5,2052,4.8
+DW01474,2026-10-24,Karnataka,Tier 1,Electronics,UPI,Female,1,9002,15,7652,3.5
+DW01487,2026-10-24,Maharashtra,Tier 3,Home Decor,UPI,Male,1,1469,0,1469,4.0
+DW01496,2026-10-24,Gujarat,Tier 2,Electronics,Credit Card,Female,1,7553,0,7553,4.1
+DW00090,2026-10-25,Gujarat,Tier 1,Electronics,Wallet,Male,2,7920,15,13464,4.0
+DW00126,2026-10-25,Karnataka,Tier 1,Fashion,Cash on Delivery,Female,2,1992,10,3586,4.9
+DW00175,2026-10-25,Telangana,Tier 2,Fashion,Credit Card,Male,1,1631,20,1305,4.4
+DW00186,2026-10-25,Karnataka,Tier 1,Fashion,UPI,Male,1,2168,5,2060,4.5
+DW00194,2026-10-25,West Bengal,Tier 2,Gifts & Hampers,Debit Card,Male,2,1237,0,2474,3.6
+DW00199,2026-10-25,Uttar Pradesh,Tier 3,Fashion,Credit Card,Male,1,2959,25,2219,4.4
+DW00227,2026-10-25,Delhi,Tier 3,Electronics,Credit Card,Male,2,10197,0,20394,4.8
+DW00240,2026-10-25,Madhya Pradesh,Tier 1,Home Decor,Wallet,Female,1,1129,15,960,4.8
+DW00247,2026-10-25,Maharashtra,Tier 2,Fashion,Wallet,Male,1,3640,5,3458,4.0
+DW00311,2026-10-25,Delhi,Tier 1,Electronics,Credit Card,Male,2,8545,15,14526,3.8
+DW00346,2026-10-25,Maharashtra,Tier 1,Home Decor,UPI,Female,1,1214,25,910,4.8
+DW00360,2026-10-25,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Female,1,498,15,423,3.4
+DW00383,2026-10-25,Tamil Nadu,Tier 2,Fashion,Wallet,Male,1,3454,0,3454,4.4
+DW00416,2026-10-25,Tamil Nadu,Tier 2,Fashion,UPI,Male,1,2403,10,2163,5.0
+DW00447,2026-10-25,Rajasthan,Tier 2,Electronics,Cash on Delivery,Female,2,5747,5,10919,3.4
+DW00584,2026-10-25,Delhi,Tier 3,Home Decor,Debit Card,Male,2,1738,20,2781,4.2
+DW00769,2026-10-25,Karnataka,Tier 1,Home Decor,Wallet,Male,1,802,20,642,3.6
+DW00793,2026-10-25,Tamil Nadu,Tier 2,Home Decor,Cash on Delivery,Female,2,1005,20,1608,4.3
+DW00840,2026-10-25,Karnataka,Tier 1,Jewellery,UPI,Male,1,17528,0,17528,4.6
+DW00931,2026-10-25,Gujarat,Tier 3,Home Decor,UPI,Female,1,1266,10,1139,3.6
+DW00934,2026-10-25,Madhya Pradesh,Tier 2,Electronics,Credit Card,Male,4,9812,0,39248,4.8
+DW00944,2026-10-25,Maharashtra,Tier 2,Gifts & Hampers,Wallet,Female,1,965,25,724,4.6
+DW00960,2026-10-25,Rajasthan,Tier 2,Gifts & Hampers,UPI,Male,2,2119,5,4026,4.9
+DW00990,2026-10-25,Rajasthan,Tier 3,Gifts & Hampers,Debit Card,Female,2,1185,10,2133,4.3
+DW01053,2026-10-25,Gujarat,Tier 3,Jewellery,UPI,Male,1,8674,5,8240,4.2
+DW01069,2026-10-25,Karnataka,Tier 1,Fashion,Credit Card,Male,4,1776,10,6394,4.6
+DW01106,2026-10-25,Uttar Pradesh,Tier 3,Jewellery,UPI,Male,1,13375,15,11369,3.5
+DW01132,2026-10-25,Rajasthan,Tier 2,Gifts & Hampers,Debit Card,Female,3,2039,5,5811,4.3
+DW01318,2026-10-25,Tamil Nadu,Tier 3,Electronics,Debit Card,Male,1,6975,25,5231,4.3
+DW01367,2026-10-25,Uttar Pradesh,Tier 3,Home Decor,UPI,Male,2,1132,5,2151,3.7
+DW01373,2026-10-25,Gujarat,Tier 3,Sweets & Dry Fruits,Wallet,Male,1,528,10,475,3.3
+DW01423,2026-10-25,Madhya Pradesh,Tier 3,Gifts & Hampers,UPI,Female,2,1017,10,1831,4.3
+DW00007,2026-10-26,Gujarat,Tier 2,Gifts & Hampers,Credit Card,Female,1,2094,0,2094,4.4
+DW00020,2026-10-26,Telangana,Tier 3,Electronics,Cash on Delivery,Female,1,8845,15,7518,3.7
+DW00053,2026-10-26,Tamil Nadu,Tier 2,Fashion,UPI,Male,1,3230,0,3230,4.9
+DW00089,2026-10-26,Telangana,Tier 3,Fashion,Credit Card,Male,2,2827,5,5371,4.3
+DW00211,2026-10-26,Madhya Pradesh,Tier 2,Fashion,Credit Card,Female,2,1813,0,3626,3.5
+DW00226,2026-10-26,Delhi,Tier 1,Jewellery,Debit Card,Male,1,12722,20,10178,3.6
+DW00327,2026-10-26,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Female,2,990,10,1782,3.2
+DW00371,2026-10-26,Maharashtra,Tier 3,Electronics,Credit Card,Male,2,13198,25,19797,4.4
+DW00403,2026-10-26,Karnataka,Tier 3,Home Decor,Debit Card,Female,1,980,25,735,3.8
+DW00409,2026-10-26,Delhi,Tier 2,Fashion,UPI,Male,2,1700,25,2550,4.3
+DW00434,2026-10-26,Gujarat,Tier 1,Sweets & Dry Fruits,Credit Card,Female,1,503,0,503,4.6
+DW00479,2026-10-26,Tamil Nadu,Tier 1,Jewellery,Debit Card,Male,4,16261,10,58540,3.5
+DW00539,2026-10-26,Rajasthan,Tier 3,Fashion,UPI,Male,1,3248,5,3086,4.4
+DW00553,2026-10-26,Maharashtra,Tier 1,Electronics,UPI,Female,1,7400,20,5920,4.4
+DW00570,2026-10-26,Rajasthan,Tier 3,Sweets & Dry Fruits,UPI,Female,1,785,20,628,4.1
+DW00638,2026-10-26,Tamil Nadu,Tier 1,Fashion,Debit Card,Female,1,2198,10,1978,3.7
+DW00647,2026-10-26,Maharashtra,Tier 2,Fashion,Credit Card,Female,3,2262,20,5429,3.5
+DW00665,2026-10-26,Maharashtra,Tier 2,Electronics,Credit Card,Female,2,6771,0,13542,3.8
+DW00705,2026-10-26,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Female,3,948,10,2560,3.3
+DW00867,2026-10-26,Maharashtra,Tier 3,Home Decor,UPI,Male,1,1664,20,1331,4.5
+DW00872,2026-10-26,Gujarat,Tier 1,Gifts & Hampers,Debit Card,Male,2,1049,25,1574,3.9
+DW00894,2026-10-26,Karnataka,Tier 1,Fashion,Credit Card,Female,2,2297,15,3905,3.8
+DW01038,2026-10-26,Delhi,Tier 1,Gifts & Hampers,Credit Card,Female,1,2045,25,1534,3.6
+DW01078,2026-10-26,Maharashtra,Tier 1,Fashion,UPI,Male,2,3322,15,5647,3.7
+DW01117,2026-10-26,Telangana,Tier 3,Gifts & Hampers,Credit Card,Male,1,1506,15,1280,3.5
+DW01135,2026-10-26,Tamil Nadu,Tier 3,Electronics,UPI,Male,1,9574,20,7659,3.3
+DW01157,2026-10-26,Maharashtra,Tier 1,Fashion,Debit Card,Male,1,2964,15,2519,3.4
+DW01176,2026-10-26,Tamil Nadu,Tier 2,Gifts & Hampers,Credit Card,Female,1,1785,15,1517,4.1
+DW01187,2026-10-26,Maharashtra,Tier 2,Electronics,UPI,Male,2,13047,25,19570,4.8
+DW01207,2026-10-26,Karnataka,Tier 1,Electronics,UPI,Male,2,8600,25,12900,3.3
+DW01216,2026-10-26,Delhi,Tier 3,Electronics,Credit Card,Female,1,6177,5,5868,3.8
+DW01288,2026-10-26,Tamil Nadu,Tier 1,Electronics,UPI,Female,1,8174,10,7357,4.4
+DW01356,2026-10-26,Gujarat,Tier 3,Electronics,UPI,Female,1,7683,10,6915,4.7
+DW01393,2026-10-26,Uttar Pradesh,Tier 2,Fashion,Debit Card,Male,1,2672,5,2538,4.9
+DW01420,2026-10-26,Madhya Pradesh,Tier 2,Jewellery,UPI,Female,2,20322,25,30483,3.7
+DW01440,2026-10-26,Delhi,Tier 1,Jewellery,Debit Card,Male,1,13320,10,11988,4.0
+DW01481,2026-10-26,Tamil Nadu,Tier 1,Electronics,UPI,Female,1,11856,10,10670,5.0
+DW01494,2026-10-26,Delhi,Tier 1,Electronics,Credit Card,Male,3,7012,10,18932,4.9
+DW00002,2026-10-27,Gujarat,Tier 3,Gifts & Hampers,UPI,Female,1,1224,20,979,4.7
+DW00019,2026-10-27,West Bengal,Tier 3,Fashion,UPI,Male,1,3100,0,3100,4.6
+DW00062,2026-10-27,Telangana,Tier 1,Gifts & Hampers,Debit Card,Male,2,1787,0,3574,3.7
+DW00081,2026-10-27,Maharashtra,Tier 3,Jewellery,Credit Card,Male,2,18995,20,30392,4.9
+DW00105,2026-10-27,Delhi,Tier 3,Electronics,Debit Card,Female,1,6547,20,5238,4.6
+DW00128,2026-10-27,Rajasthan,Tier 3,Sweets & Dry Fruits,UPI,Male,2,693,25,1040,4.1
+DW00314,2026-10-27,Maharashtra,Tier 1,Fashion,UPI,Female,1,3618,20,2894,3.5
+DW00390,2026-10-27,Tamil Nadu,Tier 3,Electronics,Credit Card,Female,1,11546,10,10391,4.9
+DW00443,2026-10-27,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Male,2,1027,5,1951,4.1
+DW00514,2026-10-27,Madhya Pradesh,Tier 2,Electronics,Debit Card,Male,4,12097,20,38710,4.0
+DW00519,2026-10-27,Delhi,Tier 2,Jewellery,Cash on Delivery,Female,1,8625,10,7762,3.4
+DW00533,2026-10-27,Telangana,Tier 3,Jewellery,UPI,Female,2,20255,20,32408,3.6
+DW00560,2026-10-27,Maharashtra,Tier 1,Electronics,UPI,Male,1,9514,20,7611,4.1
+DW00580,2026-10-27,Telangana,Tier 2,Electronics,UPI,Female,3,12369,0,37107,3.9
+DW00603,2026-10-27,West Bengal,Tier 2,Fashion,UPI,Female,1,3512,20,2810,4.0
+DW00630,2026-10-27,Tamil Nadu,Tier 2,Electronics,Credit Card,Male,3,11464,5,32672,3.7
+DW00631,2026-10-27,Delhi,Tier 1,Electronics,Credit Card,Female,1,10297,0,10297,3.5
+DW00635,2026-10-27,Maharashtra,Tier 1,Electronics,UPI,Male,1,12106,10,10895,4.8
+DW00795,2026-10-27,Madhya Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Female,3,580,25,1305,3.4
+DW00799,2026-10-27,West Bengal,Tier 1,Electronics,UPI,Female,1,13476,20,10781,4.8
+DW00811,2026-10-27,Delhi,Tier 1,Gifts & Hampers,UPI,Female,2,1246,15,2118,3.5
+DW00823,2026-10-27,Gujarat,Tier 2,Gifts & Hampers,UPI,Male,1,1664,0,1664,3.5
+DW00870,2026-10-27,West Bengal,Tier 1,Electronics,Wallet,Male,2,7822,0,15644,4.2
+DW00879,2026-10-27,Delhi,Tier 1,Jewellery,UPI,Male,1,13789,20,11031,3.3
+DW00911,2026-10-27,Tamil Nadu,Tier 2,Fashion,Cash on Delivery,Male,2,1908,0,3816,3.8
+DW01036,2026-10-27,Tamil Nadu,Tier 1,Sweets & Dry Fruits,Wallet,Female,2,825,0,1650,4.6
+DW01041,2026-10-27,Uttar Pradesh,Tier 2,Electronics,Credit Card,Male,2,10992,25,16488,3.3
+DW01104,2026-10-27,Delhi,Tier 2,Fashion,Debit Card,Female,2,2488,20,3981,4.1
+DW01108,2026-10-27,Maharashtra,Tier 2,Fashion,Credit Card,Female,2,3065,20,4904,4.2
+DW01126,2026-10-27,Maharashtra,Tier 3,Electronics,UPI,Female,1,9886,20,7909,3.3
+DW01149,2026-10-27,Tamil Nadu,Tier 2,Electronics,Debit Card,Male,4,8780,25,26340,4.3
+DW01316,2026-10-27,Tamil Nadu,Tier 2,Sweets & Dry Fruits,UPI,Female,4,832,0,3328,3.6
+DW01338,2026-10-27,Maharashtra,Tier 2,Gifts & Hampers,UPI,Female,3,1095,25,2464,3.8
+DW01341,2026-10-27,Maharashtra,Tier 1,Gifts & Hampers,Credit Card,Male,1,918,25,688,4.0
+DW01394,2026-10-27,Karnataka,Tier 1,Home Decor,UPI,Male,1,1161,5,1103,4.4
+DW01443,2026-10-27,Uttar Pradesh,Tier 3,Electronics,UPI,Male,1,12290,10,11061,4.9
+DW01451,2026-10-27,Delhi,Tier 2,Sweets & Dry Fruits,Wallet,Male,3,549,0,1647,4.6
+DW00046,2026-10-28,Uttar Pradesh,Tier 2,Home Decor,Debit Card,Male,1,1059,5,1006,4.8
+DW00068,2026-10-28,Karnataka,Tier 1,Home Decor,Debit Card,Male,1,1537,10,1383,3.4
+DW00079,2026-10-28,Karnataka,Tier 2,Home Decor,UPI,Male,2,1169,0,2338,3.7
+DW00111,2026-10-28,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Female,1,1239,15,1053,4.0
+DW00291,2026-10-28,Karnataka,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,993,15,844,3.6
+DW00312,2026-10-28,Gujarat,Tier 3,Home Decor,Cash on Delivery,Male,2,1549,15,2633,3.6
+DW00387,2026-10-28,Rajasthan,Tier 1,Electronics,UPI,Male,1,12481,5,11857,3.7
+DW00396,2026-10-28,Maharashtra,Tier 2,Fashion,UPI,Male,2,2414,10,4345,4.5
+DW00431,2026-10-28,Maharashtra,Tier 1,Jewellery,Credit Card,Male,2,19939,20,31902,3.3
+DW00494,2026-10-28,Uttar Pradesh,Tier 2,Electronics,UPI,Male,3,13090,25,29452,4.6
+DW00545,2026-10-28,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,2,682,25,1023,4.7
+DW00627,2026-10-28,Gujarat,Tier 3,Jewellery,UPI,Male,1,13698,20,10958,4.5
+DW00714,2026-10-28,Tamil Nadu,Tier 1,Sweets & Dry Fruits,Credit Card,Female,1,694,15,590,4.9
+DW00779,2026-10-28,Delhi,Tier 1,Fashion,Cash on Delivery,Female,2,2997,20,4795,3.3
+DW00796,2026-10-28,Delhi,Tier 2,Fashion,UPI,Male,1,2569,0,2569,3.6
+DW00851,2026-10-28,Maharashtra,Tier 1,Home Decor,Wallet,Male,1,1154,10,1039,4.2
+DW00873,2026-10-28,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Male,2,941,20,1506,3.8
+DW00880,2026-10-28,Delhi,Tier 1,Fashion,UPI,Female,1,3049,20,2439,4.2
+DW00882,2026-10-28,Tamil Nadu,Tier 3,Fashion,UPI,Female,1,2868,0,2868,4.8
+DW00920,2026-10-28,Uttar Pradesh,Tier 1,Fashion,Credit Card,Male,1,3253,20,2602,3.2
+DW00972,2026-10-28,Delhi,Tier 1,Sweets & Dry Fruits,Wallet,Female,1,548,10,493,3.8
+DW01015,2026-10-28,Maharashtra,Tier 3,Fashion,UPI,Male,1,2245,10,2020,3.5
+DW01103,2026-10-28,Maharashtra,Tier 3,Home Decor,Credit Card,Female,1,1789,25,1342,3.8
+DW01107,2026-10-28,Rajasthan,Tier 3,Gifts & Hampers,Credit Card,Female,1,2186,0,2186,3.7
+DW01177,2026-10-28,Madhya Pradesh,Tier 3,Gifts & Hampers,UPI,Female,1,2017,25,1513,4.8
+DW01182,2026-10-28,Rajasthan,Tier 3,Sweets & Dry Fruits,UPI,Female,1,589,25,442,3.9
+DW01233,2026-10-28,West Bengal,Tier 3,Sweets & Dry Fruits,UPI,Male,1,540,10,486,4.5
+DW01249,2026-10-28,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,8467,5,8044,3.8
+DW01294,2026-10-28,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Female,2,425,25,638,4.9
+DW01319,2026-10-28,Uttar Pradesh,Tier 2,Fashion,Credit Card,Female,1,1605,5,1525,4.7
+DW01320,2026-10-28,Madhya Pradesh,Tier 1,Sweets & Dry Fruits,Credit Card,Male,4,780,25,2340,3.4
+DW01407,2026-10-28,Madhya Pradesh,Tier 1,Jewellery,UPI,Female,1,9014,15,7662,4.1
+DW01419,2026-10-28,Rajasthan,Tier 3,Electronics,UPI,Female,1,10199,20,8159,3.9
+DW01437,2026-10-28,Delhi,Tier 2,Jewellery,UPI,Female,1,15779,25,11834,3.3
+DW01448,2026-10-28,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Male,2,828,25,1242,4.9
+DW00224,2026-10-29,Uttar Pradesh,Tier 1,Fashion,UPI,Male,2,2650,0,5300,4.0
+DW00255,2026-10-29,Madhya Pradesh,Tier 3,Jewellery,UPI,Female,1,20451,10,18406,3.3
+DW00258,2026-10-29,Uttar Pradesh,Tier 1,Jewellery,UPI,Female,1,10672,20,8538,4.6
+DW00368,2026-10-29,Uttar Pradesh,Tier 2,Electronics,Cash on Delivery,Female,1,12331,25,9248,4.0
+DW00374,2026-10-29,Uttar Pradesh,Tier 3,Fashion,Wallet,Male,2,3121,0,6242,4.9
+DW00453,2026-10-29,Tamil Nadu,Tier 2,Jewellery,UPI,Male,3,13343,0,40029,4.1
+DW00525,2026-10-29,Gujarat,Tier 1,Fashion,UPI,Male,1,3438,20,2750,3.3
+DW00566,2026-10-29,Delhi,Tier 1,Electronics,UPI,Female,1,6961,5,6613,4.2
+DW00623,2026-10-29,Rajasthan,Tier 3,Sweets & Dry Fruits,Credit Card,Male,2,681,15,1158,3.8
+DW00757,2026-10-29,Karnataka,Tier 2,Electronics,UPI,Male,1,10013,5,9512,5.0
+DW00844,2026-10-29,Uttar Pradesh,Tier 1,Electronics,UPI,Male,1,5905,0,5905,3.8
+DW00973,2026-10-29,Rajasthan,Tier 3,Electronics,UPI,Male,1,13463,5,12790,4.7
+DW01003,2026-10-29,Delhi,Tier 1,Gifts & Hampers,UPI,Male,2,1268,15,2156,3.6
+DW01004,2026-10-29,West Bengal,Tier 2,Jewellery,Wallet,Male,1,20384,0,20384,4.1
+DW01077,2026-10-29,Uttar Pradesh,Tier 3,Electronics,UPI,Male,1,6404,15,5443,4.7
+DW01143,2026-10-29,Maharashtra,Tier 1,Fashion,UPI,Female,2,3011,0,6022,3.3
+DW01275,2026-10-29,Delhi,Tier 3,Home Decor,Debit Card,Female,1,1464,5,1391,4.3
+DW01433,2026-10-29,Karnataka,Tier 1,Electronics,UPI,Male,1,12933,10,11640,3.5
+DW01456,2026-10-29,Maharashtra,Tier 2,Fashion,UPI,Male,1,3301,5,3136,3.6
+DW01469,2026-10-29,Tamil Nadu,Tier 3,Fashion,Debit Card,Female,1,3394,10,3055,4.5
+DW00037,2026-10-30,Maharashtra,Tier 3,Home Decor,UPI,Male,2,1622,25,2433,4.4
+DW00044,2026-10-30,Tamil Nadu,Tier 3,Fashion,Credit Card,Female,1,2668,10,2401,4.9
+DW00083,2026-10-30,Maharashtra,Tier 1,Jewellery,Credit Card,Male,2,15286,20,24458,4.1
+DW00112,2026-10-30,West Bengal,Tier 3,Fashion,UPI,Female,2,1761,10,3170,3.7
+DW00114,2026-10-30,Karnataka,Tier 1,Sweets & Dry Fruits,Credit Card,Male,1,684,0,684,4.8
+DW00173,2026-10-30,Madhya Pradesh,Tier 2,Fashion,Cash on Delivery,Female,1,2845,0,2845,3.5
+DW00195,2026-10-30,Delhi,Tier 2,Fashion,UPI,Female,1,2217,0,2217,4.8
+DW00251,2026-10-30,Maharashtra,Tier 2,Fashion,Credit Card,Male,2,1658,10,2984,4.2
+DW00277,2026-10-30,Gujarat,Tier 2,Electronics,Cash on Delivery,Male,1,6561,0,6561,4.6
+DW00325,2026-10-30,Maharashtra,Tier 1,Fashion,UPI,Female,1,3141,10,2827,4.9
+DW00378,2026-10-30,Delhi,Tier 1,Electronics,Cash on Delivery,Female,1,12278,0,12278,3.6
+DW00459,2026-10-30,Karnataka,Tier 1,Fashion,UPI,Female,2,2434,15,4138,4.4
+DW00564,2026-10-30,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Male,1,772,15,656,4.5
+DW00585,2026-10-30,Delhi,Tier 1,Fashion,UPI,Male,1,2134,25,1600,3.3
+DW00624,2026-10-30,Uttar Pradesh,Tier 2,Home Decor,UPI,Female,1,1769,15,1504,3.5
+DW00679,2026-10-30,Rajasthan,Tier 3,Fashion,Credit Card,Male,3,3657,20,8777,4.6
+DW00683,2026-10-30,Gujarat,Tier 1,Fashion,UPI,Female,2,1527,10,2749,4.6
+DW00699,2026-10-30,Tamil Nadu,Tier 2,Fashion,Credit Card,Female,1,1593,20,1274,4.4
+DW00770,2026-10-30,Tamil Nadu,Tier 2,Electronics,UPI,Female,1,6412,20,5130,3.8
+DW00801,2026-10-30,Telangana,Tier 1,Gifts & Hampers,UPI,Male,4,1486,5,5647,3.4
+DW00805,2026-10-30,Gujarat,Tier 2,Fashion,UPI,Female,1,2383,25,1787,4.4
+DW00846,2026-10-30,Tamil Nadu,Tier 2,Electronics,Cash on Delivery,Male,2,5957,5,11318,4.1
+DW00890,2026-10-30,Maharashtra,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,2,779,5,1480,4.0
+DW00930,2026-10-30,Uttar Pradesh,Tier 2,Jewellery,UPI,Male,1,19177,10,17259,4.4
+DW00948,2026-10-30,Madhya Pradesh,Tier 3,Fashion,UPI,Male,1,3216,10,2894,4.8
+DW01029,2026-10-30,Rajasthan,Tier 2,Gifts & Hampers,UPI,Female,1,1900,15,1615,4.4
+DW01113,2026-10-30,Maharashtra,Tier 1,Gifts & Hampers,UPI,Male,1,1572,20,1258,4.2
+DW01138,2026-10-30,Gujarat,Tier 2,Electronics,UPI,Male,1,7752,15,6589,4.9
+DW01244,2026-10-30,Delhi,Tier 1,Home Decor,UPI,Female,1,1528,5,1452,4.1
+DW01255,2026-10-30,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Male,2,777,20,1243,4.6
+DW01266,2026-10-30,Delhi,Tier 3,Electronics,UPI,Female,2,11157,10,20083,3.5
+DW01351,2026-10-30,Tamil Nadu,Tier 1,Gifts & Hampers,UPI,Male,1,2101,5,1996,3.5
+DW01395,2026-10-30,Telangana,Tier 2,Electronics,Debit Card,Female,1,13096,15,11132,3.2
+DW00012,2026-10-31,Madhya Pradesh,Tier 1,Fashion,UPI,Female,3,1829,0,5487,4.2
+DW00034,2026-10-31,Telangana,Tier 2,Fashion,UPI,Male,2,3198,10,5756,4.3
+DW00058,2026-10-31,Karnataka,Tier 3,Sweets & Dry Fruits,Wallet,Female,4,808,20,2586,4.1
+DW00170,2026-10-31,Uttar Pradesh,Tier 3,Electronics,Credit Card,Female,3,9183,5,26172,4.5
+DW00182,2026-10-31,Tamil Nadu,Tier 2,Sweets & Dry Fruits,Credit Card,Male,2,963,0,1926,4.6
+DW00200,2026-10-31,Delhi,Tier 3,Fashion,UPI,Female,1,2115,25,1586,4.0
+DW00250,2026-10-31,Maharashtra,Tier 1,Fashion,Credit Card,Female,1,1969,15,1674,4.8
+DW00305,2026-10-31,Maharashtra,Tier 1,Electronics,UPI,Female,1,6357,20,5086,3.8
+DW00322,2026-10-31,Maharashtra,Tier 1,Electronics,Credit Card,Female,2,8149,20,13038,4.1
+DW00324,2026-10-31,Madhya Pradesh,Tier 2,Jewellery,UPI,Female,1,17732,0,17732,3.7
+DW00332,2026-10-31,Karnataka,Tier 1,Fashion,UPI,Female,2,2095,25,3142,4.1
+DW00391,2026-10-31,Karnataka,Tier 3,Electronics,UPI,Male,1,6167,10,5550,4.0
+DW00421,2026-10-31,Uttar Pradesh,Tier 2,Fashion,Credit Card,Female,1,2498,20,1998,3.6
+DW00448,2026-10-31,Delhi,Tier 1,Gifts & Hampers,Debit Card,Female,1,1859,25,1394,3.7
+DW00458,2026-10-31,Delhi,Tier 1,Home Decor,Cash on Delivery,Female,2,892,20,1427,3.6
+DW00473,2026-10-31,Maharashtra,Tier 1,Jewellery,Debit Card,Male,1,18354,5,17436,3.8
+DW00536,2026-10-31,West Bengal,Tier 2,Fashion,Debit Card,Female,1,3160,5,3002,4.7
+DW00544,2026-10-31,West Bengal,Tier 1,Jewellery,Credit Card,Male,2,19218,15,32671,4.7
+DW00595,2026-10-31,Delhi,Tier 1,Fashion,Cash on Delivery,Male,2,2123,5,4034,3.4
+DW00639,2026-10-31,Karnataka,Tier 3,Jewellery,Credit Card,Female,2,10232,5,19441,3.5
+DW00652,2026-10-31,Delhi,Tier 1,Electronics,UPI,Male,2,11892,25,17838,3.5
+DW00653,2026-10-31,Delhi,Tier 2,Gifts & Hampers,Credit Card,Female,1,1139,20,911,5.0
+DW00762,2026-10-31,Delhi,Tier 1,Home Decor,UPI,Female,3,1550,15,3952,3.7
+DW00790,2026-10-31,Telangana,Tier 3,Gifts & Hampers,UPI,Female,1,1643,25,1232,3.3
+DW00802,2026-10-31,Delhi,Tier 1,Electronics,Debit Card,Male,3,10413,25,23429,4.5
+DW00807,2026-10-31,West Bengal,Tier 3,Gifts & Hampers,Debit Card,Female,4,1864,25,5592,3.9
+DW00897,2026-10-31,Uttar Pradesh,Tier 2,Fashion,UPI,Female,1,2336,15,1986,4.4
+DW00898,2026-10-31,Karnataka,Tier 3,Sweets & Dry Fruits,Debit Card,Male,1,811,5,770,3.3
+DW00928,2026-10-31,Telangana,Tier 2,Electronics,UPI,Male,1,7358,5,6990,4.9
+DW00967,2026-10-31,Maharashtra,Tier 1,Fashion,Credit Card,Female,2,2985,10,5373,4.6
+DW00968,2026-10-31,Maharashtra,Tier 1,Fashion,UPI,Female,1,2154,20,1723,3.5
+DW01044,2026-10-31,Gujarat,Tier 3,Home Decor,Credit Card,Female,3,1664,10,4493,3.8
+DW01050,2026-10-31,Delhi,Tier 1,Fashion,Credit Card,Male,1,3438,15,2922,5.0
+DW01070,2026-10-31,Rajasthan,Tier 2,Gifts & Hampers,Credit Card,Male,1,1844,25,1383,4.3
+DW01170,2026-10-31,Delhi,Tier 1,Home Decor,UPI,Female,4,939,20,3005,4.8
+DW01240,2026-10-31,Uttar Pradesh,Tier 1,Home Decor,UPI,Male,2,1114,0,2228,5.0
+DW01247,2026-10-31,Uttar Pradesh,Tier 1,Gifts & Hampers,Wallet,Female,1,1960,0,1960,3.4
+DW01364,2026-10-31,Gujarat,Tier 2,Electronics,UPI,Male,1,10169,20,8135,4.3
+DW01368,2026-10-31,West Bengal,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,430,5,408,4.5
+DW01422,2026-10-31,Maharashtra,Tier 2,Home Decor,UPI,Male,2,1196,10,2153,3.4
+DW01447,2026-10-31,Rajasthan,Tier 2,Gifts & Hampers,UPI,Female,1,956,20,765,4.9
+DW01470,2026-10-31,Delhi,Tier 2,Gifts & Hampers,Cash on Delivery,Female,2,1478,10,2660,4.0
+DW00059,2026-11-01,Uttar Pradesh,Tier 2,Electronics,Credit Card,Female,2,11551,20,18482,4.3
+DW00064,2026-11-01,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,UPI,Male,4,609,20,1949,4.0
+DW00149,2026-11-01,Karnataka,Tier 1,Fashion,Wallet,Male,3,1627,15,4149,4.7
+DW00171,2026-11-01,Uttar Pradesh,Tier 2,Fashion,UPI,Female,3,1524,15,3886,3.7
+DW00185,2026-11-01,Tamil Nadu,Tier 2,Gifts & Hampers,UPI,Female,2,976,10,1757,4.9
+DW00249,2026-11-01,Uttar Pradesh,Tier 3,Fashion,UPI,Male,1,2434,0,2434,3.5
+DW00252,2026-11-01,Telangana,Tier 3,Electronics,Credit Card,Female,1,11438,15,9722,3.7
+DW00384,2026-11-01,Maharashtra,Tier 2,Fashion,Credit Card,Male,2,3331,15,5663,4.8
+DW00385,2026-11-01,West Bengal,Tier 2,Fashion,UPI,Female,1,2695,5,2560,3.3
+DW00392,2026-11-01,Uttar Pradesh,Tier 2,Fashion,UPI,Male,1,2586,10,2327,3.5
+DW00451,2026-11-01,Gujarat,Tier 2,Fashion,Credit Card,Male,1,2912,15,2475,3.4
+DW00493,2026-11-01,Telangana,Tier 1,Home Decor,UPI,Female,2,1470,0,2940,3.3
+DW00509,2026-11-01,Karnataka,Tier 1,Fashion,UPI,Male,2,2446,25,3669,3.7
+DW00543,2026-11-01,Madhya Pradesh,Tier 3,Home Decor,UPI,Male,2,1452,0,2904,4.1
+DW00563,2026-11-01,Maharashtra,Tier 1,Sweets & Dry Fruits,Debit Card,Male,2,470,25,705,3.6
+DW00601,2026-11-01,Maharashtra,Tier 1,Fashion,Wallet,Female,2,2615,5,4968,3.4
+DW00620,2026-11-01,West Bengal,Tier 2,Electronics,UPI,Female,2,9122,5,17332,4.5
+DW00681,2026-11-01,West Bengal,Tier 1,Home Decor,Debit Card,Female,3,1341,0,4023,4.3
+DW00723,2026-11-01,Uttar Pradesh,Tier 2,Gifts & Hampers,UPI,Male,1,2076,20,1661,5.0
+DW00761,2026-11-01,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Female,2,552,0,1104,5.0
+DW00767,2026-11-01,Gujarat,Tier 2,Sweets & Dry Fruits,Debit Card,Male,2,541,5,1028,4.0
+DW00786,2026-11-01,Madhya Pradesh,Tier 1,Home Decor,Credit Card,Male,1,857,15,728,3.7
+DW00806,2026-11-01,Maharashtra,Tier 1,Fashion,UPI,Male,2,2868,25,4302,4.9
+DW00810,2026-11-01,Tamil Nadu,Tier 2,Electronics,Credit Card,Male,2,13445,20,21512,4.8
+DW00902,2026-11-01,Gujarat,Tier 2,Gifts & Hampers,UPI,Female,1,1597,20,1278,4.4
+DW00939,2026-11-01,Delhi,Tier 1,Electronics,Wallet,Female,1,9475,25,7106,3.6
+DW00947,2026-11-01,Maharashtra,Tier 2,Sweets & Dry Fruits,UPI,Female,2,535,5,1016,4.9
+DW00976,2026-11-01,West Bengal,Tier 3,Sweets & Dry Fruits,UPI,Female,1,588,5,559,5.0
+DW00979,2026-11-01,Gujarat,Tier 1,Electronics,Debit Card,Female,1,12257,5,11644,4.2
+DW00996,2026-11-01,Maharashtra,Tier 1,Jewellery,Cash on Delivery,Female,1,11120,0,11120,3.4
+DW01007,2026-11-01,Maharashtra,Tier 2,Gifts & Hampers,UPI,Female,1,1297,10,1167,4.9
+DW01026,2026-11-01,Karnataka,Tier 2,Fashion,UPI,Female,2,1934,10,3481,4.1
+DW01046,2026-11-01,Gujarat,Tier 3,Electronics,Wallet,Female,3,11829,15,30164,4.0
+DW01060,2026-11-01,Uttar Pradesh,Tier 1,Electronics,Wallet,Male,2,6233,5,11843,4.0
+DW01084,2026-11-01,Madhya Pradesh,Tier 3,Electronics,UPI,Female,2,6761,5,12846,4.6
+DW01097,2026-11-01,Maharashtra,Tier 1,Jewellery,UPI,Female,2,19370,0,38740,4.0
+DW01128,2026-11-01,Gujarat,Tier 3,Jewellery,UPI,Male,1,16756,10,15080,4.9
+DW01154,2026-11-01,Maharashtra,Tier 2,Fashion,UPI,Female,1,2036,0,2036,4.0
+DW01188,2026-11-01,West Bengal,Tier 1,Fashion,UPI,Male,1,3363,25,2522,4.3
+DW01193,2026-11-01,Karnataka,Tier 2,Gifts & Hampers,UPI,Female,1,2006,15,1705,3.8
+DW01223,2026-11-01,Tamil Nadu,Tier 2,Fashion,Credit Card,Male,3,3365,5,9590,3.6
+DW01257,2026-11-01,Uttar Pradesh,Tier 3,Fashion,UPI,Female,1,3414,10,3073,3.7
+DW01285,2026-11-01,Tamil Nadu,Tier 2,Home Decor,Debit Card,Female,1,876,5,832,3.5
+DW01290,2026-11-01,Telangana,Tier 3,Home Decor,Credit Card,Female,1,1673,5,1589,3.4
+DW01313,2026-11-01,Delhi,Tier 2,Electronics,UPI,Female,2,8955,25,13432,3.3
+DW01321,2026-11-01,Delhi,Tier 3,Sweets & Dry Fruits,UPI,Female,1,766,10,689,4.5
+DW01379,2026-11-01,Delhi,Tier 1,Jewellery,Debit Card,Male,3,15554,20,37330,3.9
+DW01444,2026-11-01,Maharashtra,Tier 1,Electronics,Credit Card,Male,1,8813,15,7491,4.6
+DW01445,2026-11-01,Karnataka,Tier 1,Gifts & Hampers,UPI,Female,2,1996,0,3992,4.6
+DW01490,2026-11-01,Maharashtra,Tier 1,Electronics,UPI,Female,1,11898,10,10708,3.6
+DW00008,2026-11-02,Telangana,Tier 2,Jewellery,Debit Card,Female,1,20978,20,16782,4.6
+DW00024,2026-11-02,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,1,589,20,471,3.4
+DW00061,2026-11-02,Maharashtra,Tier 3,Sweets & Dry Fruits,Credit Card,Male,1,830,20,664,3.5
+DW00117,2026-11-02,Maharashtra,Tier 1,Jewellery,Debit Card,Female,1,16408,5,15588,4.6
+DW00167,2026-11-02,Rajasthan,Tier 2,Home Decor,UPI,Female,1,1577,20,1262,3.3
+DW00168,2026-11-02,Uttar Pradesh,Tier 2,Home Decor,Credit Card,Female,1,1463,10,1317,3.5
+DW00181,2026-11-02,Madhya Pradesh,Tier 1,Fashion,Cash on Delivery,Female,1,3072,5,2918,3.7
+DW00220,2026-11-02,Telangana,Tier 2,Gifts & Hampers,Wallet,Female,2,1294,10,2329,3.9
+DW00231,2026-11-02,Karnataka,Tier 1,Electronics,Credit Card,Female,1,12373,15,10517,4.1
+DW00236,2026-11-02,Maharashtra,Tier 1,Electronics,Wallet,Male,2,6503,10,11705,4.9
+DW00242,2026-11-02,Delhi,Tier 1,Fashion,UPI,Female,1,3715,20,2972,3.3
+DW00297,2026-11-02,Maharashtra,Tier 1,Electronics,UPI,Male,2,9214,0,18428,4.2
+DW00341,2026-11-02,Uttar Pradesh,Tier 1,Gifts & Hampers,Debit Card,Male,4,2033,5,7725,3.6
+DW00344,2026-11-02,Rajasthan,Tier 3,Electronics,Wallet,Male,1,12124,5,11518,3.6
+DW00386,2026-11-02,Uttar Pradesh,Tier 1,Gifts & Hampers,UPI,Male,1,1638,10,1474,3.2
+DW00401,2026-11-02,Maharashtra,Tier 2,Electronics,UPI,Female,1,7591,5,7211,4.4
+DW00430,2026-11-02,Maharashtra,Tier 1,Gifts & Hampers,Credit Card,Female,1,1216,20,973,3.4
+DW00466,2026-11-02,Maharashtra,Tier 1,Fashion,Debit Card,Female,1,3426,10,3083,3.6
+DW00472,2026-11-02,Rajasthan,Tier 1,Gifts & Hampers,Debit Card,Female,1,1644,25,1233,4.8
+DW00504,2026-11-02,Maharashtra,Tier 1,Home Decor,Debit Card,Female,1,1423,25,1067,4.5
+DW00508,2026-11-02,Madhya Pradesh,Tier 1,Home Decor,Debit Card,Female,2,1380,20,2208,3.6
+DW00600,2026-11-02,Uttar Pradesh,Tier 3,Electronics,Credit Card,Male,1,10929,25,8197,5.0
+DW00612,2026-11-02,Madhya Pradesh,Tier 3,Electronics,Cash on Delivery,Female,1,12078,0,12078,3.2
+DW00682,2026-11-02,Madhya Pradesh,Tier 2,Electronics,UPI,Male,1,11127,0,11127,4.9
+DW00694,2026-11-02,Maharashtra,Tier 1,Gifts & Hampers,Debit Card,Female,1,1917,20,1534,3.6
+DW00746,2026-11-02,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Female,2,568,15,966,4.0
+DW00756,2026-11-02,Uttar Pradesh,Tier 1,Gifts & Hampers,UPI,Male,2,1368,5,2599,4.0
+DW00782,2026-11-02,Rajasthan,Tier 1,Sweets & Dry Fruits,Wallet,Female,1,1049,10,944,3.8
+DW00809,2026-11-02,Maharashtra,Tier 1,Fashion,UPI,Male,1,3700,15,3145,4.8
+DW00831,2026-11-02,Karnataka,Tier 1,Sweets & Dry Fruits,Credit Card,Male,1,513,0,513,3.7
+DW00837,2026-11-02,Karnataka,Tier 3,Electronics,UPI,Male,2,8220,10,14796,3.2
+DW00856,2026-11-02,Delhi,Tier 2,Gifts & Hampers,UPI,Male,2,2173,10,3911,3.9
+DW00940,2026-11-02,Rajasthan,Tier 3,Fashion,Wallet,Female,3,3117,10,8416,5.0
+DW00994,2026-11-02,Uttar Pradesh,Tier 3,Home Decor,UPI,Male,1,1645,5,1563,3.7
+DW00999,2026-11-02,Uttar Pradesh,Tier 3,Jewellery,UPI,Female,1,10241,25,7681,3.3
+DW01025,2026-11-02,Rajasthan,Tier 2,Home Decor,Wallet,Male,2,771,10,1388,3.4
+DW01030,2026-11-02,Delhi,Tier 2,Electronics,UPI,Male,1,11834,25,8876,3.3
+DW01062,2026-11-02,Karnataka,Tier 3,Electronics,UPI,Male,4,11461,0,45844,3.4
+DW01067,2026-11-02,Uttar Pradesh,Tier 2,Electronics,UPI,Male,4,13494,0,53976,4.0
+DW01089,2026-11-02,Delhi,Tier 3,Gifts & Hampers,Credit Card,Male,1,2040,5,1938,4.0
+DW01121,2026-11-02,Tamil Nadu,Tier 2,Fashion,UPI,Male,1,2062,25,1546,4.4
+DW01134,2026-11-02,Delhi,Tier 3,Fashion,Debit Card,Male,2,2922,5,5552,3.4
+DW01155,2026-11-02,Tamil Nadu,Tier 1,Jewellery,UPI,Male,3,15826,5,45104,4.3
+DW01160,2026-11-02,Maharashtra,Tier 1,Jewellery,Credit Card,Male,1,19463,5,18490,4.1
+DW01185,2026-11-02,Telangana,Tier 3,Electronics,Credit Card,Female,1,11585,10,10426,3.3
+DW01234,2026-11-02,Karnataka,Tier 2,Fashion,UPI,Female,1,2345,0,2345,4.9
+DW01262,2026-11-02,Tamil Nadu,Tier 1,Fashion,UPI,Male,1,2594,15,2205,4.1
+DW01317,2026-11-02,Uttar Pradesh,Tier 1,Electronics,UPI,Male,1,11841,25,8881,4.1
+DW01355,2026-11-02,Karnataka,Tier 1,Gifts & Hampers,Debit Card,Male,1,1144,15,972,4.2
+DW01410,2026-11-02,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,2,1956,15,3325,4.3
+DW01412,2026-11-02,Rajasthan,Tier 2,Sweets & Dry Fruits,UPI,Male,2,940,0,1880,4.9
+DW01431,2026-11-02,Rajasthan,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,1,588,25,441,3.6
+DW01464,2026-11-02,Tamil Nadu,Tier 2,Electronics,Wallet,Female,3,9396,25,21141,4.7
+DW00065,2026-11-03,Maharashtra,Tier 2,Fashion,UPI,Female,1,1517,0,1517,3.8
+DW00135,2026-11-03,West Bengal,Tier 2,Gifts & Hampers,UPI,Male,1,2101,15,1786,4.6
+DW00152,2026-11-03,Uttar Pradesh,Tier 2,Home Decor,Cash on Delivery,Male,1,747,25,560,3.2
+DW00153,2026-11-03,Gujarat,Tier 3,Electronics,UPI,Female,1,6654,25,4990,3.5
+DW00210,2026-11-03,Karnataka,Tier 1,Electronics,UPI,Female,1,11696,20,9357,4.0
+DW00234,2026-11-03,Karnataka,Tier 1,Electronics,UPI,Male,1,8511,5,8085,3.4
+DW00254,2026-11-03,Karnataka,Tier 2,Fashion,Wallet,Male,1,3698,10,3328,3.7
+DW00274,2026-11-03,Delhi,Tier 1,Home Decor,UPI,Female,1,760,0,760,4.5
+DW00284,2026-11-03,Maharashtra,Tier 2,Electronics,UPI,Female,1,6564,0,6564,3.9
+DW00345,2026-11-03,Maharashtra,Tier 3,Jewellery,UPI,Male,1,12183,20,9746,3.5
+DW00354,2026-11-03,Rajasthan,Tier 1,Sweets & Dry Fruits,UPI,Female,1,604,5,574,4.3
+DW00461,2026-11-03,Tamil Nadu,Tier 3,Sweets & Dry Fruits,UPI,Male,2,1021,25,1532,3.8
+DW00484,2026-11-03,Delhi,Tier 1,Jewellery,Wallet,Female,1,20705,10,18634,4.7
+DW00491,2026-11-03,Uttar Pradesh,Tier 3,Gifts & Hampers,UPI,Male,1,1500,10,1350,4.6
+DW00530,2026-11-03,Madhya Pradesh,Tier 1,Home Decor,UPI,Female,3,971,0,2913,3.4
+DW00537,2026-11-03,West Bengal,Tier 2,Electronics,Credit Card,Female,4,11984,25,35952,4.7
+DW00551,2026-11-03,Madhya Pradesh,Tier 3,Electronics,UPI,Male,2,12064,10,21715,3.8
+DW00569,2026-11-03,Gujarat,Tier 3,Gifts & Hampers,Cash on Delivery,Male,1,1642,25,1232,4.3
+DW00695,2026-11-03,Maharashtra,Tier 3,Sweets & Dry Fruits,UPI,Male,2,965,10,1737,4.9
+DW00717,2026-11-03,Karnataka,Tier 1,Electronics,UPI,Male,2,10098,10,18176,4.5
+DW00721,2026-11-03,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,1,568,20,454,3.5
+DW00787,2026-11-03,Uttar Pradesh,Tier 2,Fashion,Debit Card,Female,3,1797,20,4313,3.9
+DW00825,2026-11-03,Maharashtra,Tier 3,Fashion,UPI,Female,3,2758,5,7860,3.3
+DW00877,2026-11-03,Karnataka,Tier 2,Gifts & Hampers,Wallet,Female,1,2245,5,2133,3.9
+DW00885,2026-11-03,Maharashtra,Tier 2,Electronics,Credit Card,Male,1,9506,0,9506,3.4
+DW00888,2026-11-03,Uttar Pradesh,Tier 3,Electronics,UPI,Male,4,8722,20,27910,3.7
+DW00896,2026-11-03,Uttar Pradesh,Tier 3,Fashion,UPI,Female,4,3613,0,14452,3.4
+DW00942,2026-11-03,Rajasthan,Tier 1,Jewellery,Cash on Delivery,Female,2,12263,20,19621,3.4
+DW00971,2026-11-03,Tamil Nadu,Tier 2,Electronics,Cash on Delivery,Male,1,12322,10,11090,4.3
+DW01012,2026-11-03,Maharashtra,Tier 2,Electronics,UPI,Female,1,9416,10,8474,4.6
+DW01013,2026-11-03,Delhi,Tier 3,Home Decor,Debit Card,Female,1,1468,10,1321,4.9
+DW01120,2026-11-03,Rajasthan,Tier 3,Home Decor,Cash on Delivery,Male,1,1745,25,1309,3.6
+DW01127,2026-11-03,Gujarat,Tier 2,Electronics,UPI,Male,2,12784,15,21733,4.3
+DW01130,2026-11-03,Delhi,Tier 1,Electronics,UPI,Male,2,10111,10,18200,3.3
+DW01159,2026-11-03,Uttar Pradesh,Tier 1,Gifts & Hampers,UPI,Female,2,1676,10,3017,3.5
+DW01168,2026-11-03,Karnataka,Tier 2,Electronics,UPI,Male,1,12929,25,9697,3.3
+DW01284,2026-11-03,West Bengal,Tier 2,Fashion,UPI,Female,1,1696,0,1696,3.4
+DW01324,2026-11-03,Maharashtra,Tier 1,Gifts & Hampers,Credit Card,Male,1,2009,5,1909,4.8
+DW01329,2026-11-03,Gujarat,Tier 2,Home Decor,UPI,Male,4,756,10,2722,4.7
+DW01390,2026-11-03,Delhi,Tier 3,Sweets & Dry Fruits,Debit Card,Female,2,965,25,1448,4.2
+DW01405,2026-11-03,Uttar Pradesh,Tier 1,Fashion,UPI,Male,1,3455,15,2937,3.3
+DW01409,2026-11-03,Tamil Nadu,Tier 1,Gifts & Hampers,UPI,Female,1,1715,20,1372,4.5
+DW01411,2026-11-03,West Bengal,Tier 1,Fashion,Debit Card,Female,1,2683,15,2281,4.3
+DW01453,2026-11-03,Rajasthan,Tier 3,Home Decor,UPI,Male,3,1363,20,3271,3.3
+DW01471,2026-11-03,Gujarat,Tier 2,Gifts & Hampers,Debit Card,Male,2,1196,10,2153,5.0
+DW00057,2026-11-04,Delhi,Tier 3,Electronics,Debit Card,Male,1,7168,0,7168,4.5
+DW00146,2026-11-04,West Bengal,Tier 1,Fashion,UPI,Male,1,2622,25,1966,3.6
+DW00198,2026-11-04,Maharashtra,Tier 3,Sweets & Dry Fruits,UPI,Male,2,585,25,878,3.6
+DW00232,2026-11-04,Maharashtra,Tier 1,Gifts & Hampers,Debit Card,Female,2,1772,5,3367,3.9
+DW00262,2026-11-04,Uttar Pradesh,Tier 1,Jewellery,UPI,Male,2,13887,5,26385,3.7
+DW00278,2026-11-04,Uttar Pradesh,Tier 1,Fashion,Debit Card,Female,2,2093,0,4186,4.0
+DW00290,2026-11-04,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,2,874,15,1486,3.3
+DW00323,2026-11-04,Maharashtra,Tier 1,Home Decor,Wallet,Female,1,1492,15,1268,5.0
+DW00339,2026-11-04,Maharashtra,Tier 2,Gifts & Hampers,Credit Card,Female,1,1561,0,1561,3.6
+DW00347,2026-11-04,Uttar Pradesh,Tier 1,Electronics,UPI,Female,1,10036,20,8029,4.0
+DW00353,2026-11-04,Maharashtra,Tier 1,Electronics,UPI,Female,1,6275,10,5648,4.6
+DW00373,2026-11-04,West Bengal,Tier 2,Electronics,Debit Card,Female,2,11489,15,19531,3.5
+DW00377,2026-11-04,Karnataka,Tier 3,Electronics,UPI,Female,1,7470,20,5976,3.3
+DW00399,2026-11-04,Telangana,Tier 2,Fashion,UPI,Female,2,2087,25,3130,4.1
+DW00413,2026-11-04,Maharashtra,Tier 3,Home Decor,UPI,Female,2,737,10,1327,3.5
+DW00483,2026-11-04,Rajasthan,Tier 2,Home Decor,UPI,Male,2,976,20,1562,3.4
+DW00495,2026-11-04,West Bengal,Tier 3,Electronics,Credit Card,Male,4,10010,20,32032,4.6
+DW00497,2026-11-04,West Bengal,Tier 2,Jewellery,Credit Card,Male,1,18339,10,16505,4.6
+DW00500,2026-11-04,West Bengal,Tier 3,Electronics,UPI,Male,1,9439,15,8023,4.2
+DW00503,2026-11-04,Maharashtra,Tier 1,Jewellery,Credit Card,Male,1,11749,15,9987,3.3
+DW00512,2026-11-04,Uttar Pradesh,Tier 3,Electronics,UPI,Female,4,10839,10,39020,3.2
+DW00524,2026-11-04,Tamil Nadu,Tier 2,Fashion,Debit Card,Male,1,3660,15,3111,4.8
+DW00558,2026-11-04,Maharashtra,Tier 1,Fashion,Cash on Delivery,Female,1,3026,25,2270,4.2
+DW00591,2026-11-04,Maharashtra,Tier 1,Gifts & Hampers,Wallet,Female,1,1034,20,827,4.6
+DW00661,2026-11-04,Uttar Pradesh,Tier 2,Jewellery,UPI,Male,1,12036,10,10832,4.2
+DW00676,2026-11-04,Maharashtra,Tier 1,Jewellery,UPI,Female,1,16893,15,14359,4.3
+DW00715,2026-11-04,West Bengal,Tier 3,Sweets & Dry Fruits,UPI,Female,1,496,15,422,4.5
+DW00740,2026-11-04,Telangana,Tier 2,Electronics,UPI,Female,1,8168,20,6534,4.6
+DW00754,2026-11-04,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Female,1,552,0,552,3.8
+DW00804,2026-11-04,Uttar Pradesh,Tier 2,Gifts & Hampers,Cash on Delivery,Female,3,1048,15,2672,5.0
+DW00824,2026-11-04,Maharashtra,Tier 1,Fashion,Credit Card,Female,2,2956,25,4434,4.3
+DW00843,2026-11-04,Tamil Nadu,Tier 2,Home Decor,Cash on Delivery,Male,4,1023,15,3478,3.5
+DW00854,2026-11-04,Uttar Pradesh,Tier 3,Electronics,Credit Card,Male,1,8897,20,7118,5.0
+DW00895,2026-11-04,Karnataka,Tier 2,Gifts & Hampers,Debit Card,Female,2,1330,15,2261,3.6
+DW00905,2026-11-04,Tamil Nadu,Tier 1,Sweets & Dry Fruits,UPI,Female,1,675,20,540,3.8
+DW00949,2026-11-04,Gujarat,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Male,1,939,5,892,4.9
+DW00952,2026-11-04,Karnataka,Tier 2,Jewellery,Credit Card,Male,1,9853,0,9853,3.9
+DW01020,2026-11-04,Rajasthan,Tier 2,Electronics,UPI,Male,1,5870,15,4990,3.6
+DW01052,2026-11-04,Maharashtra,Tier 1,Jewellery,UPI,Female,1,13171,20,10537,4.0
+DW01063,2026-11-04,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Female,1,613,25,460,4.2
+DW01068,2026-11-04,Maharashtra,Tier 2,Sweets & Dry Fruits,Credit Card,Female,4,1005,10,3618,4.4
+DW01073,2026-11-04,Tamil Nadu,Tier 1,Electronics,Cash on Delivery,Male,1,6522,10,5870,4.2
+DW01101,2026-11-04,Tamil Nadu,Tier 3,Jewellery,Credit Card,Female,2,14795,10,26631,3.7
+DW01116,2026-11-04,Rajasthan,Tier 2,Fashion,UPI,Female,1,2968,0,2968,4.6
+DW01144,2026-11-04,Uttar Pradesh,Tier 2,Fashion,Credit Card,Female,1,3374,5,3205,3.9
+DW01197,2026-11-04,Telangana,Tier 2,Fashion,Credit Card,Female,4,2472,0,9888,4.7
+DW01210,2026-11-04,Gujarat,Tier 2,Fashion,UPI,Female,3,1930,10,5211,5.0
+DW01215,2026-11-04,Telangana,Tier 1,Home Decor,Credit Card,Male,1,930,0,930,4.5
+DW01235,2026-11-04,Delhi,Tier 2,Fashion,UPI,Female,1,3719,20,2975,3.5
+DW01287,2026-11-04,Maharashtra,Tier 1,Electronics,Wallet,Female,1,5554,0,5554,4.6
+DW01337,2026-11-04,West Bengal,Tier 1,Electronics,UPI,Female,2,11388,15,19360,4.0
+DW01343,2026-11-04,Delhi,Tier 1,Gifts & Hampers,UPI,Female,1,1545,0,1545,4.9
+DW01400,2026-11-04,West Bengal,Tier 1,Jewellery,Debit Card,Male,1,13100,0,13100,4.7
+DW01438,2026-11-04,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,2,2209,10,3976,3.8
+DW00022,2026-11-05,Rajasthan,Tier 3,Home Decor,Credit Card,Female,1,1750,15,1488,4.2
+DW00080,2026-11-05,Karnataka,Tier 1,Home Decor,Debit Card,Male,1,1704,5,1619,4.8
+DW00093,2026-11-05,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,4,606,15,2060,3.5
+DW00115,2026-11-05,Maharashtra,Tier 2,Sweets & Dry Fruits,Debit Card,Female,1,506,20,405,3.9
+DW00131,2026-11-05,Tamil Nadu,Tier 3,Home Decor,UPI,Female,1,1052,15,894,4.2
+DW00216,2026-11-05,Gujarat,Tier 1,Fashion,UPI,Female,4,1940,5,7372,3.9
+DW00239,2026-11-05,Tamil Nadu,Tier 3,Gifts & Hampers,UPI,Male,1,950,0,950,4.0
+DW00245,2026-11-05,Delhi,Tier 2,Fashion,UPI,Female,1,3366,5,3198,4.2
+DW00303,2026-11-05,Uttar Pradesh,Tier 2,Home Decor,Credit Card,Male,2,944,10,1699,4.9
+DW00356,2026-11-05,Uttar Pradesh,Tier 1,Home Decor,UPI,Male,1,1331,0,1331,4.7
+DW00389,2026-11-05,Rajasthan,Tier 3,Electronics,Credit Card,Female,1,8314,15,7067,3.2
+DW00402,2026-11-05,Madhya Pradesh,Tier 1,Electronics,UPI,Male,2,10253,10,18455,3.8
+DW00456,2026-11-05,Delhi,Tier 1,Gifts & Hampers,UPI,Female,2,2124,25,3186,4.4
+DW00496,2026-11-05,Delhi,Tier 1,Electronics,Credit Card,Male,1,7316,20,5853,3.7
+DW00518,2026-11-05,Karnataka,Tier 1,Sweets & Dry Fruits,Debit Card,Female,3,562,0,1686,3.7
+DW00629,2026-11-05,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Female,1,691,5,656,3.5
+DW00691,2026-11-05,Delhi,Tier 2,Jewellery,UPI,Female,1,17611,10,15850,4.2
+DW00692,2026-11-05,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Male,4,660,15,2244,3.4
+DW00707,2026-11-05,Gujarat,Tier 2,Fashion,Credit Card,Male,1,2322,20,1858,3.7
+DW00763,2026-11-05,Uttar Pradesh,Tier 2,Electronics,UPI,Male,2,6775,15,11518,4.6
+DW00780,2026-11-05,Karnataka,Tier 3,Electronics,Credit Card,Female,1,11855,20,9484,4.3
+DW00781,2026-11-05,Uttar Pradesh,Tier 2,Fashion,Debit Card,Male,1,1765,25,1324,4.3
+DW00788,2026-11-05,Uttar Pradesh,Tier 2,Electronics,UPI,Female,4,8862,0,35448,4.2
+DW00822,2026-11-05,Gujarat,Tier 1,Fashion,Debit Card,Female,1,3468,15,2948,3.8
+DW00860,2026-11-05,Delhi,Tier 1,Home Decor,UPI,Male,1,1284,25,963,3.4
+DW00863,2026-11-05,Rajasthan,Tier 2,Fashion,UPI,Female,1,2886,5,2742,4.5
+DW00876,2026-11-05,Maharashtra,Tier 1,Fashion,Cash on Delivery,Male,1,2884,15,2451,4.0
+DW00951,2026-11-05,Karnataka,Tier 1,Electronics,Debit Card,Female,3,9513,25,21404,3.3
+DW00958,2026-11-05,Rajasthan,Tier 2,Jewellery,UPI,Female,4,17458,25,52374,4.1
+DW00982,2026-11-05,Delhi,Tier 1,Gifts & Hampers,UPI,Male,3,2034,0,6102,4.7
+DW00984,2026-11-05,Rajasthan,Tier 3,Fashion,Cash on Delivery,Female,2,2583,0,5166,4.4
+DW00985,2026-11-05,Telangana,Tier 1,Gifts & Hampers,UPI,Female,2,1547,20,2475,4.8
+DW01006,2026-11-05,Tamil Nadu,Tier 3,Jewellery,UPI,Female,2,16304,10,29347,3.7
+DW01018,2026-11-05,Gujarat,Tier 2,Fashion,UPI,Female,1,2244,0,2244,4.6
+DW01037,2026-11-05,Tamil Nadu,Tier 2,Electronics,Credit Card,Male,2,10139,20,16222,3.7
+DW01054,2026-11-05,Karnataka,Tier 1,Electronics,Debit Card,Female,2,11125,15,18912,3.4
+DW01085,2026-11-05,Maharashtra,Tier 1,Fashion,Credit Card,Male,1,2441,20,1953,3.8
+DW01142,2026-11-05,Maharashtra,Tier 2,Home Decor,UPI,Female,2,990,10,1782,4.9
+DW01178,2026-11-05,Telangana,Tier 3,Electronics,UPI,Female,2,10171,10,18308,4.2
+DW01250,2026-11-05,Uttar Pradesh,Tier 2,Fashion,UPI,Male,1,1782,10,1604,3.6
+DW01327,2026-11-05,Uttar Pradesh,Tier 3,Sweets & Dry Fruits,Debit Card,Male,3,595,5,1696,4.6
+DW01383,2026-11-05,Delhi,Tier 2,Fashion,Debit Card,Female,1,2840,5,2698,3.8
+DW01385,2026-11-05,Uttar Pradesh,Tier 3,Fashion,UPI,Male,1,3635,25,2726,4.4
+DW01414,2026-11-05,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,1,1019,20,815,3.7
+DW01435,2026-11-05,West Bengal,Tier 2,Sweets & Dry Fruits,Credit Card,Male,4,807,25,2421,4.0
+DW01442,2026-11-05,Maharashtra,Tier 1,Jewellery,UPI,Male,1,13833,15,11758,4.5
+DW01472,2026-11-05,West Bengal,Tier 1,Electronics,UPI,Male,1,10588,5,10059,4.3
+DW01475,2026-11-05,Maharashtra,Tier 1,Sweets & Dry Fruits,Credit Card,Female,1,571,10,514,3.6
+DW01483,2026-11-05,Rajasthan,Tier 3,Sweets & Dry Fruits,UPI,Male,1,864,25,648,3.3
+DW01500,2026-11-05,Telangana,Tier 2,Jewellery,UPI,Female,1,9912,10,8921,3.7
+DW00023,2026-11-06,West Bengal,Tier 1,Electronics,Credit Card,Male,2,8249,25,12374,3.4
+DW00075,2026-11-06,Uttar Pradesh,Tier 3,Electronics,Credit Card,Female,1,11207,15,9526,3.6
+DW00076,2026-11-06,Delhi,Tier 1,Electronics,Credit Card,Female,1,6928,0,6928,4.1
+DW00107,2026-11-06,West Bengal,Tier 3,Fashion,UPI,Female,2,1908,15,3244,4.1
+DW00147,2026-11-06,Maharashtra,Tier 1,Home Decor,Credit Card,Male,1,1627,15,1383,4.1
+DW00158,2026-11-06,Uttar Pradesh,Tier 1,Electronics,UPI,Male,1,8198,0,8198,3.5
+DW00188,2026-11-06,Karnataka,Tier 2,Fashion,Debit Card,Female,1,2531,10,2278,3.4
+DW00202,2026-11-06,Delhi,Tier 3,Fashion,UPI,Female,3,2019,25,4543,4.3
+DW00207,2026-11-06,Uttar Pradesh,Tier 2,Fashion,Debit Card,Male,1,2821,15,2398,4.1
+DW00221,2026-11-06,Karnataka,Tier 1,Jewellery,Debit Card,Male,4,8700,25,26100,3.9
+DW00230,2026-11-06,Tamil Nadu,Tier 2,Jewellery,Debit Card,Male,1,17956,5,17058,4.3
+DW00267,2026-11-06,Karnataka,Tier 2,Fashion,UPI,Male,2,1582,10,2848,3.6
+DW00270,2026-11-06,Tamil Nadu,Tier 3,Jewellery,UPI,Male,2,18863,25,28294,3.8
+DW00271,2026-11-06,Karnataka,Tier 1,Gifts & Hampers,UPI,Female,1,1391,15,1182,3.8
+DW00287,2026-11-06,Uttar Pradesh,Tier 2,Electronics,Debit Card,Male,1,10987,0,10987,3.8
+DW00292,2026-11-06,Tamil Nadu,Tier 2,Jewellery,Credit Card,Female,1,17172,15,14596,4.2
+DW00299,2026-11-06,Gujarat,Tier 3,Fashion,UPI,Male,2,2979,15,5064,3.3
+DW00315,2026-11-06,Karnataka,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,439,15,373,4.3
+DW00330,2026-11-06,Karnataka,Tier 2,Fashion,UPI,Male,1,1756,0,1756,4.1
+DW00359,2026-11-06,Rajasthan,Tier 2,Home Decor,UPI,Female,1,1693,0,1693,3.5
+DW00365,2026-11-06,Gujarat,Tier 2,Electronics,UPI,Male,1,10678,5,10144,4.1
+DW00366,2026-11-06,Rajasthan,Tier 2,Gifts & Hampers,Debit Card,Female,2,1958,25,2937,4.0
+DW00372,2026-11-06,Rajasthan,Tier 1,Fashion,Wallet,Male,1,2340,10,2106,3.5
+DW00388,2026-11-06,Delhi,Tier 1,Fashion,Debit Card,Female,1,1622,25,1216,4.0
+DW00520,2026-11-06,Telangana,Tier 2,Home Decor,UPI,Male,3,1528,5,4355,3.2
+DW00528,2026-11-06,Tamil Nadu,Tier 1,Home Decor,Wallet,Male,3,844,15,2152,4.5
+DW00540,2026-11-06,Uttar Pradesh,Tier 2,Electronics,UPI,Female,1,11053,5,10500,4.6
+DW00575,2026-11-06,Delhi,Tier 2,Fashion,Credit Card,Female,2,3555,0,7110,4.2
+DW00609,2026-11-06,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,913,10,822,3.9
+DW00622,2026-11-06,Tamil Nadu,Tier 1,Electronics,Credit Card,Female,1,9857,15,8378,4.0
+DW00628,2026-11-06,Telangana,Tier 3,Electronics,UPI,Female,2,13157,20,21051,3.2
+DW00730,2026-11-06,Uttar Pradesh,Tier 1,Electronics,Debit Card,Female,1,9669,25,7252,4.7
+DW00735,2026-11-06,Tamil Nadu,Tier 2,Electronics,UPI,Female,2,12174,15,20696,4.2
+DW00744,2026-11-06,Tamil Nadu,Tier 1,Electronics,Debit Card,Female,1,10097,20,8078,3.8
+DW00775,2026-11-06,Delhi,Tier 2,Home Decor,Debit Card,Female,1,1590,25,1192,3.5
+DW00857,2026-11-06,Karnataka,Tier 2,Fashion,Credit Card,Female,1,3002,20,2402,4.0
+DW00883,2026-11-06,Karnataka,Tier 2,Electronics,Cash on Delivery,Female,2,11579,20,18526,3.9
+DW00901,2026-11-06,West Bengal,Tier 3,Electronics,Cash on Delivery,Male,2,8720,0,17440,4.6
+DW00963,2026-11-06,Tamil Nadu,Tier 3,Gifts & Hampers,UPI,Female,3,1989,20,4774,3.9
+DW00974,2026-11-06,Maharashtra,Tier 3,Home Decor,Credit Card,Female,2,1444,25,2166,3.4
+DW01016,2026-11-06,Delhi,Tier 2,Electronics,Credit Card,Male,1,6023,15,5120,3.5
+DW01083,2026-11-06,Tamil Nadu,Tier 2,Gifts & Hampers,Cash on Delivery,Female,1,1361,25,1021,4.9
+DW01091,2026-11-06,Maharashtra,Tier 1,Electronics,Wallet,Male,1,8563,10,7707,3.5
+DW01140,2026-11-06,Telangana,Tier 2,Gifts & Hampers,UPI,Female,1,1369,20,1095,3.9
+DW01166,2026-11-06,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,3,490,15,1250,4.4
+DW01175,2026-11-06,Telangana,Tier 3,Fashion,Credit Card,Male,4,1684,5,6399,4.8
+DW01199,2026-11-06,Gujarat,Tier 2,Electronics,Credit Card,Female,2,10501,0,21002,3.7
+DW01263,2026-11-06,Madhya Pradesh,Tier 2,Fashion,UPI,Male,1,2480,20,1984,4.7
+DW01271,2026-11-06,Uttar Pradesh,Tier 2,Fashion,Debit Card,Female,1,1811,20,1449,3.9
+DW01297,2026-11-06,West Bengal,Tier 3,Jewellery,UPI,Female,1,18251,20,14601,3.5
+DW01330,2026-11-06,Maharashtra,Tier 2,Electronics,UPI,Male,1,10244,5,9732,4.5
+DW01335,2026-11-06,Rajasthan,Tier 3,Home Decor,Cash on Delivery,Male,1,1513,0,1513,4.8
+DW01352,2026-11-06,Karnataka,Tier 2,Electronics,UPI,Male,1,7321,5,6955,3.8
+DW01376,2026-11-06,Rajasthan,Tier 1,Sweets & Dry Fruits,UPI,Female,1,818,10,736,3.9
+DW01459,2026-11-06,Maharashtra,Tier 1,Electronics,UPI,Male,1,13358,5,12690,3.6
+DW00082,2026-11-07,Telangana,Tier 3,Sweets & Dry Fruits,UPI,Male,1,477,25,358,3.2
+DW00113,2026-11-07,Gujarat,Tier 1,Electronics,UPI,Female,1,6830,25,5122,3.4
+DW00121,2026-11-07,Maharashtra,Tier 1,Electronics,UPI,Male,1,7436,25,5577,3.5
+DW00129,2026-11-07,Karnataka,Tier 3,Electronics,UPI,Female,3,13155,10,35518,3.6
+DW00136,2026-11-07,Karnataka,Tier 1,Gifts & Hampers,Debit Card,Male,1,1826,0,1826,3.6
+DW00161,2026-11-07,Gujarat,Tier 3,Jewellery,Wallet,Male,3,18027,0,54081,3.5
+DW00176,2026-11-07,Tamil Nadu,Tier 1,Electronics,UPI,Female,1,9715,15,8258,3.6
+DW00187,2026-11-07,Delhi,Tier 3,Electronics,UPI,Female,1,8436,10,7592,4.9
+DW00218,2026-11-07,Maharashtra,Tier 1,Electronics,UPI,Male,2,7658,20,12253,4.7
+DW00222,2026-11-07,Maharashtra,Tier 2,Sweets & Dry Fruits,Wallet,Female,2,533,20,853,4.2
+DW00246,2026-11-07,Uttar Pradesh,Tier 3,Electronics,UPI,Male,2,10066,10,18119,3.9
+DW00257,2026-11-07,Telangana,Tier 3,Home Decor,Credit Card,Female,1,768,20,614,4.4
+DW00264,2026-11-07,Tamil Nadu,Tier 3,Home Decor,UPI,Female,2,1715,10,3087,4.2
+DW00283,2026-11-07,West Bengal,Tier 2,Gifts & Hampers,UPI,Male,2,985,20,1576,3.8
+DW00370,2026-11-07,Rajasthan,Tier 3,Gifts & Hampers,Credit Card,Female,4,1971,20,6307,3.4
+DW00379,2026-11-07,Tamil Nadu,Tier 2,Fashion,Cash on Delivery,Female,1,3291,5,3126,3.5
+DW00380,2026-11-07,Karnataka,Tier 2,Home Decor,UPI,Male,1,988,5,939,4.7
+DW00398,2026-11-07,Madhya Pradesh,Tier 3,Gifts & Hampers,UPI,Female,2,1685,20,2696,4.4
+DW00455,2026-11-07,Maharashtra,Tier 2,Electronics,Credit Card,Male,1,6398,10,5758,3.8
+DW00462,2026-11-07,Delhi,Tier 1,Sweets & Dry Fruits,Cash on Delivery,Male,2,426,10,767,4.3
+DW00572,2026-11-07,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,Credit Card,Female,3,434,10,1172,4.6
+DW00573,2026-11-07,Gujarat,Tier 2,Electronics,UPI,Female,1,10454,10,9409,3.8
+DW00577,2026-11-07,Rajasthan,Tier 3,Fashion,UPI,Female,3,3244,25,7299,3.4
+DW00589,2026-11-07,Gujarat,Tier 1,Gifts & Hampers,Debit Card,Female,2,2044,5,3884,4.5
+DW00593,2026-11-07,West Bengal,Tier 3,Jewellery,Debit Card,Female,1,16456,5,15633,4.1
+DW00598,2026-11-07,Karnataka,Tier 1,Fashion,Credit Card,Female,3,1774,5,5056,4.2
+DW00619,2026-11-07,Delhi,Tier 1,Jewellery,Debit Card,Female,1,8781,15,7464,4.7
+DW00642,2026-11-07,Rajasthan,Tier 1,Electronics,Debit Card,Female,1,6578,15,5591,4.2
+DW00648,2026-11-07,West Bengal,Tier 1,Sweets & Dry Fruits,UPI,Female,1,1016,0,1016,3.2
+DW00650,2026-11-07,Rajasthan,Tier 3,Fashion,UPI,Female,1,3418,20,2734,3.7
+DW00671,2026-11-07,Karnataka,Tier 2,Electronics,Cash on Delivery,Male,1,12913,20,10330,3.4
+DW00678,2026-11-07,West Bengal,Tier 3,Electronics,Credit Card,Male,2,9382,5,17826,3.7
+DW00698,2026-11-07,Maharashtra,Tier 1,Gifts & Hampers,UPI,Male,1,2050,10,1845,3.6
+DW00726,2026-11-07,Uttar Pradesh,Tier 2,Jewellery,UPI,Female,1,17817,5,16926,3.3
+DW00729,2026-11-07,Rajasthan,Tier 2,Electronics,Credit Card,Male,3,12363,0,37089,4.3
+DW00808,2026-11-07,Delhi,Tier 1,Home Decor,UPI,Male,2,941,20,1506,3.8
+DW00817,2026-11-07,Rajasthan,Tier 1,Gifts & Hampers,Debit Card,Female,2,1557,5,2958,3.8
+DW00845,2026-11-07,Uttar Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,2,880,10,1584,4.0
+DW00869,2026-11-07,Delhi,Tier 3,Fashion,Cash on Delivery,Male,2,2657,25,3986,4.8
+DW00886,2026-11-07,Karnataka,Tier 2,Jewellery,UPI,Male,1,9554,15,8121,3.7
+DW00900,2026-11-07,Maharashtra,Tier 1,Fashion,UPI,Female,1,2017,15,1714,4.5
+DW00909,2026-11-07,Delhi,Tier 1,Electronics,UPI,Male,1,11313,25,8485,4.2
+DW00975,2026-11-07,Karnataka,Tier 3,Fashion,Credit Card,Female,1,1967,10,1770,4.5
+DW00992,2026-11-07,Tamil Nadu,Tier 3,Electronics,Cash on Delivery,Female,1,12472,10,11225,3.4
+DW00993,2026-11-07,Maharashtra,Tier 2,Gifts & Hampers,Debit Card,Female,1,1730,5,1644,3.8
+DW01090,2026-11-07,Gujarat,Tier 1,Fashion,UPI,Male,1,3637,5,3455,3.6
+DW01105,2026-11-07,Gujarat,Tier 1,Fashion,Credit Card,Male,2,1639,5,3114,5.0
+DW01173,2026-11-07,Uttar Pradesh,Tier 2,Electronics,Credit Card,Male,3,8037,5,22905,4.9
+DW01190,2026-11-07,Maharashtra,Tier 2,Electronics,Cash on Delivery,Female,1,7537,5,7160,4.1
+DW01203,2026-11-07,Uttar Pradesh,Tier 1,Home Decor,UPI,Male,1,1130,10,1017,4.8
+DW01229,2026-11-07,Karnataka,Tier 1,Home Decor,Debit Card,Female,1,945,5,898,3.7
+DW01236,2026-11-07,Maharashtra,Tier 1,Electronics,UPI,Female,3,9155,15,23345,3.5
+DW01241,2026-11-07,Uttar Pradesh,Tier 1,Electronics,Credit Card,Female,1,5805,5,5515,4.5
+DW01248,2026-11-07,Uttar Pradesh,Tier 2,Electronics,Credit Card,Female,1,8026,25,6020,4.9
+DW01309,2026-11-07,Uttar Pradesh,Tier 3,Electronics,UPI,Male,1,6512,20,5210,4.3
+DW01333,2026-11-07,Gujarat,Tier 1,Electronics,Credit Card,Male,1,12550,10,11295,4.0
+DW01359,2026-11-07,Delhi,Tier 2,Home Decor,Debit Card,Female,4,1517,0,6068,4.5
+DW01377,2026-11-07,Delhi,Tier 2,Jewellery,UPI,Male,1,20540,25,15405,4.8
+DW01413,2026-11-07,Uttar Pradesh,Tier 3,Electronics,Debit Card,Male,1,10393,0,10393,4.5
+DW01424,2026-11-07,Tamil Nadu,Tier 2,Fashion,Debit Card,Female,2,3221,5,6120,4.7
+DW01426,2026-11-07,Delhi,Tier 2,Sweets & Dry Fruits,UPI,Female,1,784,0,784,4.5
+DW00011,2026-11-08,Maharashtra,Tier 2,Gifts & Hampers,Wallet,Female,1,1511,5,1435,4.9
+DW00013,2026-11-08,Maharashtra,Tier 1,Gifts & Hampers,Credit Card,Female,2,1915,10,3447,3.5
+DW00029,2026-11-08,Uttar Pradesh,Tier 2,Gifts & Hampers,Debit Card,Male,1,1839,10,1655,3.7
+DW00047,2026-11-08,Rajasthan,Tier 3,Fashion,Debit Card,Male,1,1979,15,1682,4.0
+DW00050,2026-11-08,Madhya Pradesh,Tier 3,Home Decor,UPI,Female,2,1310,5,2489,3.3
+DW00055,2026-11-08,Maharashtra,Tier 2,Sweets & Dry Fruits,Credit Card,Female,1,1014,15,862,3.8
+DW00060,2026-11-08,Telangana,Tier 1,Electronics,Credit Card,Female,1,12329,5,11713,4.6
+DW00073,2026-11-08,Tamil Nadu,Tier 2,Fashion,Credit Card,Male,1,2528,15,2149,4.8
+DW00103,2026-11-08,Madhya Pradesh,Tier 3,Sweets & Dry Fruits,Credit Card,Female,2,502,0,1004,4.8
+DW00162,2026-11-08,Delhi,Tier 1,Electronics,Credit Card,Female,1,9887,0,9887,5.0
+DW00177,2026-11-08,Gujarat,Tier 1,Fashion,Debit Card,Female,1,2780,20,2224,4.4
+DW00241,2026-11-08,Tamil Nadu,Tier 1,Jewellery,UPI,Female,1,15719,0,15719,4.5
+DW00268,2026-11-08,Uttar Pradesh,Tier 1,Sweets & Dry Fruits,UPI,Female,2,617,5,1172,4.7
+DW00296,2026-11-08,Delhi,Tier 1,Gifts & Hampers,UPI,Female,1,1190,0,1190,3.7
+DW00301,2026-11-08,Rajasthan,Tier 1,Electronics,Credit Card,Female,2,10052,20,16083,3.5
+DW00334,2026-11-08,Delhi,Tier 1,Electronics,UPI,Female,1,12229,20,9783,4.1
+DW00336,2026-11-08,Delhi,Tier 3,Sweets & Dry Fruits,UPI,Female,1,432,10,389,4.4
+DW00342,2026-11-08,Delhi,Tier 1,Home Decor,UPI,Male,1,1000,25,750,3.8
+DW00415,2026-11-08,Maharashtra,Tier 1,Electronics,UPI,Female,4,9365,10,33714,3.7
+DW00427,2026-11-08,Delhi,Tier 1,Electronics,UPI,Female,1,5699,0,5699,4.0
+DW00449,2026-11-08,Delhi,Tier 1,Gifts & Hampers,UPI,Male,1,907,10,816,3.3
+DW00527,2026-11-08,Delhi,Tier 2,Home Decor,UPI,Male,4,1031,15,3505,4.9
+DW00531,2026-11-08,Tamil Nadu,Tier 3,Electronics,Debit Card,Female,1,11736,5,11149,3.7
+DW00557,2026-11-08,Maharashtra,Tier 1,Gifts & Hampers,UPI,Female,3,901,15,2298,3.9
+DW00588,2026-11-08,Gujarat,Tier 3,Fashion,UPI,Female,3,3086,0,9258,5.0
+DW00606,2026-11-08,Karnataka,Tier 2,Gifts & Hampers,UPI,Male,1,1918,15,1630,5.0
+DW00616,2026-11-08,Delhi,Tier 2,Electronics,UPI,Female,3,12020,25,27045,4.7
+DW00621,2026-11-08,Karnataka,Tier 2,Fashion,Wallet,Female,2,3290,5,6251,3.6
+DW00644,2026-11-08,Delhi,Tier 3,Sweets & Dry Fruits,Debit Card,Female,3,533,0,1599,3.6
+DW00656,2026-11-08,Karnataka,Tier 3,Electronics,UPI,Female,1,5560,25,4170,3.9
+DW00709,2026-11-08,Telangana,Tier 2,Fashion,Debit Card,Female,1,3702,15,3147,4.5
+DW00765,2026-11-08,Telangana,Tier 1,Sweets & Dry Fruits,UPI,Female,1,457,10,411,3.6
+DW00776,2026-11-08,Delhi,Tier 3,Electronics,Cash on Delivery,Male,2,6081,15,10338,4.5
+DW00818,2026-11-08,Delhi,Tier 1,Home Decor,UPI,Female,1,1504,15,1278,3.7
+DW00819,2026-11-08,Karnataka,Tier 3,Gifts & Hampers,Debit Card,Female,1,960,15,816,4.6
+DW00829,2026-11-08,West Bengal,Tier 2,Electronics,UPI,Male,1,9988,0,9988,4.5
+DW00833,2026-11-08,Madhya Pradesh,Tier 3,Gifts & Hampers,UPI,Male,2,1653,5,3141,4.2
+DW00892,2026-11-08,Uttar Pradesh,Tier 1,Home Decor,Credit Card,Female,1,1014,5,963,4.0
+DW00906,2026-11-08,Rajasthan,Tier 3,Fashion,Credit Card,Male,2,2471,15,4201,3.3
+DW00913,2026-11-08,Tamil Nadu,Tier 2,Sweets & Dry Fruits,Credit Card,Male,1,934,15,794,4.7
+DW00919,2026-11-08,Karnataka,Tier 2,Electronics,UPI,Female,1,6939,5,6592,3.5
+DW00998,2026-11-08,Uttar Pradesh,Tier 2,Home Decor,Credit Card,Female,2,1667,25,2500,3.7
+DW01059,2026-11-08,Maharashtra,Tier 1,Electronics,UPI,Female,2,9254,15,15732,3.4
+DW01061,2026-11-08,Maharashtra,Tier 3,Fashion,Credit Card,Female,1,2459,0,2459,4.2
+DW01065,2026-11-08,West Bengal,Tier 1,Electronics,Wallet,Male,1,8284,10,7456,4.3
+DW01080,2026-11-08,Telangana,Tier 2,Jewellery,UPI,Female,1,10905,10,9814,4.4
+DW01125,2026-11-08,Rajasthan,Tier 1,Home Decor,UPI,Female,1,1542,20,1234,3.9
+DW01129,2026-11-08,Maharashtra,Tier 2,Electronics,UPI,Male,3,12213,10,32975,4.5
+DW01195,2026-11-08,Tamil Nadu,Tier 3,Electronics,UPI,Male,1,5950,5,5652,3.9
+DW01217,2026-11-08,Madhya Pradesh,Tier 2,Fashion,UPI,Male,1,2638,10,2374,4.4
+DW01258,2026-11-08,Karnataka,Tier 2,Fashion,Wallet,Female,4,1734,25,5202,3.2
+DW01274,2026-11-08,West Bengal,Tier 2,Electronics,UPI,Male,1,9738,0,9738,3.5
+DW01281,2026-11-08,Uttar Pradesh,Tier 2,Gifts & Hampers,Wallet,Male,1,1057,25,793,3.6
+DW01286,2026-11-08,Gujarat,Tier 1,Electronics,Credit Card,Female,1,12664,15,10764,3.4
+DW01296,2026-11-08,Uttar Pradesh,Tier 2,Electronics,Cash on Delivery,Female,1,7594,0,7594,4.5
+DW01311,2026-11-08,Rajasthan,Tier 3,Fashion,Debit Card,Male,2,3277,15,5571,3.7
+DW01325,2026-11-08,Telangana,Tier 2,Jewellery,Debit Card,Male,2,10289,0,20578,3.2
+DW01369,2026-11-08,Uttar Pradesh,Tier 1,Electronics,Debit Card,Female,1,12734,20,10187,4.0
+DW01392,2026-11-08,Karnataka,Tier 3,Sweets & Dry Fruits,UPI,Male,2,763,0,1526,3.8
+DW01403,2026-11-08,Madhya Pradesh,Tier 1,Fashion,UPI,Male,1,3746,20,2997,3.4
+DW01486,2026-11-08,Karnataka,Tier 1,Sweets & Dry Fruits,UPI,Female,1,463,5,440,4.8
+DW00015,2026-11-09,West Bengal,Tier 1,Fashion,UPI,Female,2,3604,20,5766,3.9
+DW00039,2026-11-09,Uttar Pradesh,Tier 2,Jewellery,UPI,Male,2,10391,20,16626,4.5
+DW00041,2026-11-09,Delhi,Tier 1,Gifts & Hampers,UPI,Male,2,1548,15,2632,4.5
+DW00071,2026-11-09,Karnataka,Tier 2,Sweets & Dry Fruits,Debit Card,Male,3,842,10,2273,4.0
+DW00092,2026-11-09,Uttar Pradesh,Tier 3,Fashion,UPI,Female,1,2503,20,2002,4.7
+DW00140,2026-11-09,Maharashtra,Tier 1,Fashion,Credit Card,Male,1,1616,0,1616,4.0
+DW00142,2026-11-09,Karnataka,Tier 2,Gifts & Hampers,UPI,Male,1,1468,25,1101,4.8
+DW00155,2026-11-09,Maharashtra,Tier 2,Jewellery,UPI,Female,1,8538,0,8538,4.8
+DW00191,2026-11-09,Maharashtra,Tier 2,Electronics,Cash on Delivery,Female,3,8133,10,21959,3.9
+DW00206,2026-11-09,West Bengal,Tier 1,Electronics,Debit Card,Female,1,10465,20,8372,4.2
+DW00213,2026-11-09,Uttar Pradesh,Tier 2,Fashion,Credit Card,Male,1,1750,15,1488,4.9
+DW00217,2026-11-09,Telangana,Tier 3,Home Decor,Debit Card,Female,1,844,5,802,3.7
+DW00219,2026-11-09,West Bengal,Tier 2,Electronics,Cash on Delivery,Male,3,9546,5,27206,4.3
+DW00326,2026-11-09,Delhi,Tier 1,Sweets & Dry Fruits,Credit Card,Male,1,735,10,662,3.5
+DW00335,2026-11-09,West Bengal,Tier 1,Fashion,UPI,Female,1,2439,5,2317,3.2
+DW00351,2026-11-09,Madhya Pradesh,Tier 2,Sweets & Dry Fruits,UPI,Male,1,680,10,612,4.5
+DW00381,2026-11-09,Maharashtra,Tier 2,Electronics,UPI,Female,4,5678,25,17034,4.2
+DW00405,2026-11-09,Karnataka,Tier 2,Home Decor,Debit Card,Female,1,1158,10,1042,4.0
+DW00441,2026-11-09,Telangana,Tier 3,Electronics,UPI,Male,1,5600,15,4760,5.0
+DW00481,2026-11-09,Tamil Nadu,Tier 2,Sweets & Dry Fruits,UPI,Male,1,991,10,892,3.6
+DW00501,2026-11-09,Maharashtra,Tier 2,Gifts & Hampers,UPI,Female,2,1268,0,2536,3.2
+DW00542,2026-11-09,Delhi,Tier 1,Fashion,UPI,Female,3,1768,10,4774,3.5
+DW00546,2026-11-09,Telangana,Tier 3,Electronics,Debit Card,Male,1,8207,5,7797,3.9
+DW00548,2026-11-09,Maharashtra,Tier 1,Gifts & Hampers,UPI,Male,3,1898,5,5409,4.9
+DW00552,2026-11-09,Karnataka,Tier 2,Fashion,Wallet,Male,3,2858,10,7717,4.0
+DW00565,2026-11-09,Tamil Nadu,Tier 2,Electronics,UPI,Female,1,10346,5,9829,4.7
+DW00578,2026-11-09,West Bengal,Tier 2,Jewellery,UPI,Female,2,18166,5,34515,4.3
+DW00611,2026-11-09,West Bengal,Tier 3,Fashion,Credit Card,Male,1,2497,20,1998,4.3
+DW00618,2026-11-09,Madhya Pradesh,Tier 2,Gifts & Hampers,UPI,Male,1,1773,5,1684,3.9
+DW00626,2026-11-09,Tamil Nadu,Tier 1,Electronics,UPI,Male,3,6735,15,17174,4.6
+DW00632,2026-11-09,Uttar Pradesh,Tier 1,Fashion,UPI,Female,3,2130,0,6390,4.9
+DW00643,2026-11-09,Delhi,Tier 1,Fashion,UPI,Female,1,2897,10,2607,3.4
+DW00664,2026-11-09,Maharashtra,Tier 1,Electronics,UPI,Male,2,13418,10,24152,3.3
+DW00680,2026-11-09,Maharashtra,Tier 3,Electronics,UPI,Female,1,10204,5,9694,3.8
+DW00686,2026-11-09,Telangana,Tier 1,Electronics,Wallet,Female,2,12230,15,20791,4.3
+DW00731,2026-11-09,Delhi,Tier 2,Gifts & Hampers,Cash on Delivery,Female,3,1285,20,3084,3.2
+DW00743,2026-11-09,Gujarat,Tier 3,Fashion,Debit Card,Male,2,1702,10,3064,3.4
+DW00758,2026-11-09,Tamil Nadu,Tier 2,Electronics,UPI,Female,1,11069,20,8855,4.3
+DW00784,2026-11-09,Maharashtra,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Female,1,562,5,534,3.2
+DW00798,2026-11-09,Maharashtra,Tier 1,Electronics,UPI,Male,2,7633,5,14503,4.5
+DW00827,2026-11-09,Delhi,Tier 2,Sweets & Dry Fruits,Debit Card,Male,1,619,20,495,4.3
+DW00836,2026-11-09,Maharashtra,Tier 3,Gifts & Hampers,Debit Card,Male,1,980,15,833,5.0
+DW00915,2026-11-09,Maharashtra,Tier 1,Electronics,Cash on Delivery,Male,1,7162,20,5730,3.7
+DW00941,2026-11-09,Tamil Nadu,Tier 2,Home Decor,Credit Card,Female,1,1513,10,1362,4.0
+DW00955,2026-11-09,Uttar Pradesh,Tier 2,Fashion,Credit Card,Female,2,2723,20,4357,4.2
+DW01047,2026-11-09,Delhi,Tier 1,Electronics,Credit Card,Male,1,6711,0,6711,4.5
+DW01049,2026-11-09,Maharashtra,Tier 3,Fashion,Credit Card,Male,1,1573,20,1258,3.7
+DW01064,2026-11-09,Karnataka,Tier 2,Fashion,UPI,Male,1,2611,5,2480,4.9
+DW01071,2026-11-09,Delhi,Tier 1,Fashion,Cash on Delivery,Female,3,3141,5,8952,3.5
+DW01082,2026-11-09,Maharashtra,Tier 2,Home Decor,Credit Card,Female,2,887,5,1685,3.9
+DW01122,2026-11-09,Tamil Nadu,Tier 2,Fashion,Wallet,Male,3,3584,0,10752,4.1
+DW01158,2026-11-09,Maharashtra,Tier 1,Sweets & Dry Fruits,UPI,Female,4,622,5,2364,3.2
+DW01163,2026-11-09,West Bengal,Tier 2,Fashion,Cash on Delivery,Female,3,1855,0,5565,4.0
+DW01206,2026-11-09,Rajasthan,Tier 2,Electronics,UPI,Female,1,5547,10,4992,4.7
+DW01224,2026-11-09,Uttar Pradesh,Tier 2,Fashion,Credit Card,Female,1,3456,15,2938,4.8
+DW01232,2026-11-09,Tamil Nadu,Tier 3,Fashion,Cash on Delivery,Female,4,1578,0,6312,4.9
+DW01276,2026-11-09,Maharashtra,Tier 1,Jewellery,UPI,Male,4,16562,0,66248,4.2
+DW01292,2026-11-09,Madhya Pradesh,Tier 2,Fashion,UPI,Male,1,2998,15,2548,3.2
+DW01300,2026-11-09,Karnataka,Tier 1,Gifts & Hampers,UPI,Female,2,2226,10,4007,4.2
+DW01305,2026-11-09,West Bengal,Tier 2,Sweets & Dry Fruits,Cash on Delivery,Male,1,740,25,555,4.2
+DW01308,2026-11-09,Telangana,Tier 3,Fashion,Credit Card,Female,2,3056,15,5195,4.9
+DW01339,2026-11-09,Uttar Pradesh,Tier 1,Fashion,UPI,Male,1,1999,5,1899,4.5
+DW01340,2026-11-09,Tamil Nadu,Tier 2,Sweets & Dry Fruits,Wallet,Female,4,525,15,1785,4.5
+DW01349,2026-11-09,West Bengal,Tier 2,Gifts & Hampers,UPI,Male,2,1594,0,3188,3.5
+DW01361,2026-11-09,Tamil Nadu,Tier 2,Electronics,Credit Card,Female,1,5637,5,5355,3.3
+DW01401,2026-11-09,Delhi,Tier 1,Electronics,UPI,Male,1,9810,0,9810,3.5
+DW01449,2026-11-09,Delhi,Tier 3,Fashion,UPI,Male,1,1785,0,1785,4.6
+DW01452,2026-11-09,Delhi,Tier 2,Home Decor,UPI,Female,3,1477,25,3323,4.3
+DW01454,2026-11-09,Delhi,Tier 1,Fashion,UPI,Female,1,2898,5,2753,4.1
+DW01463,2026-11-09,Karnataka,Tier 1,Jewellery,Cash on Delivery,Male,2,12024,5,22846,4.1
+DW01478,2026-11-09,Maharashtra,Tier 3,Sweets & Dry Fruits,UPI,Female,1,791,20,633,3.4
+DW01489,2026-11-09,Rajasthan,Tier 2,Electronics,Credit Card,Female,1,8004,20,6403,3.2
+DW01495,2026-11-09,West Bengal,Tier 3,Electronics,Credit Card,Male,4,5494,20,17581,4.1
+DW01497,2026-11-09,Uttar Pradesh,Tier 2,Home Decor,UPI,Female,1,1442,10,1298,3.2
+DW01498,2026-11-09,Karnataka,Tier 1,Fashion,UPI,Male,2,3235,20,5176,3.5
